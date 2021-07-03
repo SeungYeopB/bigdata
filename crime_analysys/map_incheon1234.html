@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_48e33cbef8404ef9b94efdb4dc856896 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_48e33cbef8404ef9b94efdb4dc856896" ></div>
+        
+</body>
+<script>    
+    
+            var map_48e33cbef8404ef9b94efdb4dc856896 = L.map(
+                "map_48e33cbef8404ef9b94efdb4dc856896",
+                {
+                    center: [37.4564, 126.7056],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_89526857ece74dc8b2f1281a73d9a1ce = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+            var marker_560b19001b794ebd8a78bde3b87b2b6e = L.marker(
+                [37.4031674672, 126.6467361],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_74398db55b964c92a2e2776a368d7f5a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_508066ccbc5b475288740fbe0d11b957 = $(`<div id="html_508066ccbc5b475288740fbe0d11b957" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천연송고등학교</div></div>`)[0];
+            popup_74398db55b964c92a2e2776a368d7f5a.setContent(html_508066ccbc5b475288740fbe0d11b957);
+        
+
+        marker_560b19001b794ebd8a78bde3b87b2b6e.bindPopup(popup_74398db55b964c92a2e2776a368d7f5a)
+        ;
+
+        
+    
+    
+            var marker_d4177be34fa44ea4b5811f4597d7dd88 = L.marker(
+                [37.638463992, 126.4904288806],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_b8404b6be2914213aeb99b5e41cff719 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_01942186d1634936a2ebdd54932ff640 = $(`<div id="html_01942186d1634936a2ebdd54932ff640" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 길상초등학교</div></div>`)[0];
+            popup_b8404b6be2914213aeb99b5e41cff719.setContent(html_01942186d1634936a2ebdd54932ff640);
+        
+
+        marker_d4177be34fa44ea4b5811f4597d7dd88.bindPopup(popup_b8404b6be2914213aeb99b5e41cff719)
+        ;
+
+        
+    
+    
+            var marker_a1070e9cf3654e8ab2217584192cc454 = L.marker(
+                [37.4642821062, 126.7339171397],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_02c1a5764e8449aea997ad125c14e8c3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fa3c25655e6540459897522bc7eac22e = $(`<div id="html_fa3c25655e6540459897522bc7eac22e" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 숭덕여자고등학교</div></div>`)[0];
+            popup_02c1a5764e8449aea997ad125c14e8c3.setContent(html_fa3c25655e6540459897522bc7eac22e);
+        
+
+        marker_a1070e9cf3654e8ab2217584192cc454.bindPopup(popup_02c1a5764e8449aea997ad125c14e8c3)
+        ;
+
+        
+    
+    
+            var marker_55847ea3380f4f6788ef61bdd4571e0e = L.marker(
+                [37.6863625703, 126.4255653111],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_b5a6d1b95bed4ff6994c27ff9314dbdf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8750ba5c60a4481b8312e23e67b267e4 = $(`<div id="html_8750ba5c60a4481b8312e23e67b267e4" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 산마을고등학교</div></div>`)[0];
+            popup_b5a6d1b95bed4ff6994c27ff9314dbdf.setContent(html_8750ba5c60a4481b8312e23e67b267e4);
+        
+
+        marker_55847ea3380f4f6788ef61bdd4571e0e.bindPopup(popup_b5a6d1b95bed4ff6994c27ff9314dbdf)
+        ;
+
+        
+    
+    
+            var marker_501146bd2fcc4170bef170a2d739f269 = L.marker(
+                [37.5386963565, 126.6453132879],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_b8d61b407eda4cd08ce3f3a285158089 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_726dd612378842b4a9a3b7e912acebb2 = $(`<div id="html_726dd612378842b4a9a3b7e912acebb2" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천청람초등학교</div></div>`)[0];
+            popup_b8d61b407eda4cd08ce3f3a285158089.setContent(html_726dd612378842b4a9a3b7e912acebb2);
+        
+
+        marker_501146bd2fcc4170bef170a2d739f269.bindPopup(popup_b8d61b407eda4cd08ce3f3a285158089)
+        ;
+
+        
+    
+    
+            var marker_d86eaca9b12445a9af830168ade05eeb = L.marker(
+                [37.401466006, 126.6483623397],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_0ab51b41570846deab3a8aa9a7965100 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3669920177ed438fb30d71562862624a = $(`<div id="html_3669920177ed438fb30d71562862624a" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천포스코고등학교</div></div>`)[0];
+            popup_0ab51b41570846deab3a8aa9a7965100.setContent(html_3669920177ed438fb30d71562862624a);
+        
+
+        marker_d86eaca9b12445a9af830168ade05eeb.bindPopup(popup_0ab51b41570846deab3a8aa9a7965100)
+        ;
+
+        
+    
+    
+            var marker_a01af76ca2264cb4b1f8d8e6fcf8894b = L.marker(
+                [37.53839244, 126.6412777],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_ee4e91b150654621a8291c4eed6d236e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_063216d2a1754524b83444c3ca13f652 = $(`<div id="html_063216d2a1754524b83444c3ca13f652" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천청호초등학교</div></div>`)[0];
+            popup_ee4e91b150654621a8291c4eed6d236e.setContent(html_063216d2a1754524b83444c3ca13f652);
+        
+
+        marker_a01af76ca2264cb4b1f8d8e6fcf8894b.bindPopup(popup_ee4e91b150654621a8291c4eed6d236e)
+        ;
+
+        
+    
+    
+            var marker_aeaf77d6cd9740c89cb0fb0aef38f326 = L.marker(
+                [37.5378394134, 126.6538740276],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_0ff6c7813bea4f35b459ab2f38b30a0e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_17b3c680f52d42edbdae30bcfe1d6817 = $(`<div id="html_17b3c680f52d42edbdae30bcfe1d6817" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천청라중학교</div></div>`)[0];
+            popup_0ff6c7813bea4f35b459ab2f38b30a0e.setContent(html_17b3c680f52d42edbdae30bcfe1d6817);
+        
+
+        marker_aeaf77d6cd9740c89cb0fb0aef38f326.bindPopup(popup_0ff6c7813bea4f35b459ab2f38b30a0e)
+        ;
+
+        
+    
+    
+            var marker_02c9acacc3e5457980f8ac15ff8e7875 = L.marker(
+                [37.499513981, 126.7244083112],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_24c6f06947234676b75822ada899ff50 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_22e0f26138cf4196a60ebd7f85974c02 = $(`<div id="html_22e0f26138cf4196a60ebd7f85974c02" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천부평동초등학교</div></div>`)[0];
+            popup_24c6f06947234676b75822ada899ff50.setContent(html_22e0f26138cf4196a60ebd7f85974c02);
+        
+
+        marker_02c9acacc3e5457980f8ac15ff8e7875.bindPopup(popup_24c6f06947234676b75822ada899ff50)
+        ;
+
+        
+    
+    
+            var marker_2f008ef71c13441cad5c7605d4812f8f = L.marker(
+                [37.538496511, 126.6262362689],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_3c984a12fa5749feb08b355bfc040c2a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e65112a0c5b048779b323a8ad022ef5b = $(`<div id="html_e65112a0c5b048779b323a8ad022ef5b" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천경연중학교</div></div>`)[0];
+            popup_3c984a12fa5749feb08b355bfc040c2a.setContent(html_e65112a0c5b048779b323a8ad022ef5b);
+        
+
+        marker_2f008ef71c13441cad5c7605d4812f8f.bindPopup(popup_3c984a12fa5749feb08b355bfc040c2a)
+        ;
+
+        
+    
+    
+            var marker_2fa0c1bba4e342c09ef44b08747d2dbb = L.marker(
+                [37.44709898, 126.7422696651],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_7edc08540f8246689044371796e134c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_19b29a06144f496b949e269f192aace2 = $(`<div id="html_19b29a06144f496b949e269f192aace2" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천만수고등학교</div></div>`)[0];
+            popup_7edc08540f8246689044371796e134c4.setContent(html_19b29a06144f496b949e269f192aace2);
+        
+
+        marker_2fa0c1bba4e342c09ef44b08747d2dbb.bindPopup(popup_7edc08540f8246689044371796e134c4)
+        ;
+
+        
+    
+    
+            var marker_a629cd4eadd84cf9a5e31ffe826755fa = L.marker(
+                [37.4241951196, 126.7441353197],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_8eb81de717d946b8bcd3f0a948ef79c7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6fbe3ab19c0f46c0bb12e85222bd59ce = $(`<div id="html_6fbe3ab19c0f46c0bb12e85222bd59ce" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천한빛초등학교</div></div>`)[0];
+            popup_8eb81de717d946b8bcd3f0a948ef79c7.setContent(html_6fbe3ab19c0f46c0bb12e85222bd59ce);
+        
+
+        marker_a629cd4eadd84cf9a5e31ffe826755fa.bindPopup(popup_8eb81de717d946b8bcd3f0a948ef79c7)
+        ;
+
+        
+    
+    
+            var marker_2c78a93162e94675bcb0ca323d79c0e0 = L.marker(
+                [37.4457367952, 126.7099273],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_becaef0722da4af89aa99065ada4cbda = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c229de0a9d7547c6b6ecd1e6d1cc44ff = $(`<div id="html_c229de0a9d7547c6b6ecd1e6d1cc44ff" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천성리초등학교</div></div>`)[0];
+            popup_becaef0722da4af89aa99065ada4cbda.setContent(html_c229de0a9d7547c6b6ecd1e6d1cc44ff);
+        
+
+        marker_2c78a93162e94675bcb0ca323d79c0e0.bindPopup(popup_becaef0722da4af89aa99065ada4cbda)
+        ;
+
+        
+    
+    
+            var marker_24d539b052bf433a8e8a9ea40b0d142d = L.marker(
+                [37.7694550994, 126.4610541008],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_d361c5caab3449cfa1323b61f53f016c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b9524db9680a464d875e0bf8423e0e75 = $(`<div id="html_b9524db9680a464d875e0bf8423e0e75" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 송해초등학교</div></div>`)[0];
+            popup_d361c5caab3449cfa1323b61f53f016c.setContent(html_b9524db9680a464d875e0bf8423e0e75);
+        
+
+        marker_24d539b052bf433a8e8a9ea40b0d142d.bindPopup(popup_d361c5caab3449cfa1323b61f53f016c)
+        ;
+
+        
+    
+    
+            var marker_c05e64577ede4bc2904e58497612eac5 = L.marker(
+                [37.68897162, 126.4193695437],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_a124e31dd3b74d0aa7c0b8b9992cebed = L.popup({"maxWidth": "100%"});
+
+        
+            var html_89ee0c208a7b4baebf26b8ea090479f7 = $(`<div id="html_89ee0c208a7b4baebf26b8ea090479f7" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 양도초등학교</div></div>`)[0];
+            popup_a124e31dd3b74d0aa7c0b8b9992cebed.setContent(html_89ee0c208a7b4baebf26b8ea090479f7);
+        
+
+        marker_c05e64577ede4bc2904e58497612eac5.bindPopup(popup_a124e31dd3b74d0aa7c0b8b9992cebed)
+        ;
+
+        
+    
+    
+            var marker_6eb9f2ec61d94f81afc0cf50afe6b34c = L.marker(
+                [37.3841880193, 126.6351350058],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_de526695cc6c430f9eef1c37daa54469 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9db4c7d3849c48218668ff9acaa9c001 = $(`<div id="html_9db4c7d3849c48218668ff9acaa9c001" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천송일초등학교</div></div>`)[0];
+            popup_de526695cc6c430f9eef1c37daa54469.setContent(html_9db4c7d3849c48218668ff9acaa9c001);
+        
+
+        marker_6eb9f2ec61d94f81afc0cf50afe6b34c.bindPopup(popup_de526695cc6c430f9eef1c37daa54469)
+        ;
+
+        
+    
+    
+            var marker_c1cad80d20104d129f1657d92e759dc4 = L.marker(
+                [37.4418066158, 126.7155207512],
+                {}
+            ).addTo(map_48e33cbef8404ef9b94efdb4dc856896);
+        
+    
+        var popup_5cc2fb967376415c9b9f978300b46722 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_df9ffd29c8e8425aa8bd84dfcc28daad = $(`<div id="html_df9ffd29c8e8425aa8bd84dfcc28daad" style="width: 100.0%; height: 100.0%;"><div style='white-space:nowrap;'> 🏪 인천만월초등학교</div></div>`)[0];
+            popup_5cc2fb967376415c9b9f978300b46722.setContent(html_df9ffd29c8e8425aa8bd84dfcc28daad);
+        
+
+        marker_c1cad80d20104d129f1657d92e759dc4.bindPopup(popup_5cc2fb967376415c9b9f978300b46722)
+        ;
+
+        
+    
+</script>

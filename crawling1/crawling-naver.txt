@@ -1,0 +1,3143 @@
+
+<!doctype html>                 <html lang="ko" data-dark="false"> <head> <meta charset="utf-8"> <title>NAVER</title> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=1190"> <meta name="apple-mobile-web-app-title" content="NAVER"/> <meta name="robots" content="index,nofollow"/> <meta name="description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta property="og:title" content="네이버"> <meta property="og:url" content="https://www.naver.com/"> <meta property="og:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta property="og:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta name="twitter:card" content="summary"> <meta name="twitter:title" content=""> <meta name="twitter:url" content="https://www.naver.com/"> <meta name="twitter:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta name="twitter:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/>  <link rel="stylesheet" href="https://pm.pstatic.net/dist/css/nmain.20210420.css"> <link rel="stylesheet" href="https://ssl.pstatic.net/sstatic/search/pc/css/sp_autocomplete_210318.css"> <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?1"/>  <link rel="apple-touch-icon" sizes="114x114" href="https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png"/> <link rel="apple-touch-icon" href="https://s.pstatic.net/static/www/u/2014/0328/mma_20432863.png"/> <script>document.domain="naver.com",window.nmain=window.nmain||{},window.nmain.supportFlicking=!1;var nsc="navertop.v4",ua=navigator.userAgent;window.nmain.isIE=navigator.appName&&navigator.appName.indexOf("Explorer")>0&&ua.toLocaleLowerCase().indexOf("msie 10.0")<0,document.getElementsByTagName("html")[0].setAttribute("data-useragent",ua),window.nmain.isIE&&(Object.create=function(n){function a(){}return a.prototype=n,new a})</script> <script>var darkmode= false;window.naver_corp_da=window.naver_corp_da||{main:{}},window.naver_corp_da.main=window.naver_corp_da.main||{},window.naver_corp_da.main.darkmode=darkmode</script> <script> window.nmain.gv = {  isLogin: false,
+useId: null,   daInfo: {"ANIMAL":{"menu":"ANIMAL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000161","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_1","tb":"ANIMAL_1","unit":"SU10567","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000162","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_2","tb":"ANIMAL_1","unit":"SU10568","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BEAUTY":{"menu":"BEAUTY","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000163","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_1","tb":"BEAUTY_1","unit":"SU10595","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000164","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_2","tb":"BEAUTY_1","unit":"SU10596","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BUSINESS":{"menu":"BUSINESS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000165","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_1","tb":"BUSINESS_1","unit":"SU10577","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000166","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_2","tb":"BUSINESS_1","unit":"SU10578","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CARGAME":{"menu":"CARGAME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000167","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_1","tb":"CARGAME_1","unit":"SU10587","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000168","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_2","tb":"CARGAME_1","unit":"SU10588","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CHINA":{"menu":"CHINA","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000169","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_1","tb":"CHINA_1","unit":"SU10591","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000170","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_2","tb":"CHINA_1","unit":"SU10592","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"DESIGN":{"menu":"DESIGN","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000171","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_1","tb":"DESIGN_1","unit":"SU10569","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000172","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_2","tb":"DESIGN_1","unit":"SU10570","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FARM":{"menu":"FARM","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000173","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_1","tb":"FARM_1","unit":"SU10561","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000174","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_2","tb":"FARM_1","unit":"SU10562","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FINANCE":{"menu":"FINANCE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000175","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_1","tb":"FINANCE_1","unit":"SU10563","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000176","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_2","tb":"FINANCE_1","unit":"SU10564","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"ITTECH":{"menu":"ITTECH","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000177","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_1","tb":"ITTECH_1","unit":"SU10593","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000178","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_2","tb":"ITTECH_1","unit":"SU10594","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"JOB":{"menu":"JOB","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000179","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_1","tb":"JOB_1","unit":"SU10589","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000180","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_2","tb":"JOB_1","unit":"SU10590","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LAW":{"menu":"LAW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000181","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_1","tb":"LAW_1","unit":"SU10573","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000182","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_2","tb":"LAW_1","unit":"SU10574","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVING":{"menu":"LIVING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000183","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_1","tb":"LIVING_1","unit":"SU10597","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000184","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_2","tb":"LIVING_1","unit":"SU10606","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVINGHOME":{"menu":"LIVINGHOME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000185","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_1","tb":"LIVINGHOME_1","unit":"SU10571","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000186","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_2","tb":"LIVINGHOME_1","unit":"SU10572","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOMKIDS":{"menu":"MOMKIDS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000187","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_1","tb":"MOMKIDS_1","unit":"SU10575","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000188","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_2","tb":"MOMKIDS_1","unit":"SU10576","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOVIE":{"menu":"MOVIE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000189","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_1","tb":"MOVIE_1","unit":"SU10585","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000190","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_2","tb":"MOVIE_1","unit":"SU10586","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SCHOOL":{"menu":"SCHOOL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000191","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_1","tb":"SCHOOL_1","unit":"SU10579","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000192","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_2","tb":"SCHOOL_1","unit":"SU10580","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SHOW":{"menu":"SHOW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000193","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_1","tb":"SHOW_1","unit":"SU10565","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000194","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_2","tb":"SHOW_1","unit":"SU10566","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"TRAVEL":{"menu":"TRAVEL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000195","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_1","tb":"TRAVEL_1","unit":"SU10581","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000196","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_2","tb":"TRAVEL_1","unit":"SU10582","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"WEDDING":{"menu":"WEDDING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000197","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_1","tb":"WEDDING_1","unit":"SU10583","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000198","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_2","tb":"WEDDING_1","unit":"SU10584","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]}},
+svt: 20210511095518,
+}; </script> <script> window.nmain.newsstand = {
+rcode: '02190109',
+newsCastSubsInfo: '',
+newsStandSubsInfo: ''
+};
+window.etc = {  };
+window.svr = "<!--aweb201-->"; </script> <script src="https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js" defer="defer"></script> <script src="https://ssl.pstatic.net/tveta/libs/assets/js/common/min/probe.min.js" defer="defer"></script>   <script src="https://pm.pstatic.net/dist/js/external.1be451ae.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/preload.6f271894.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/polyfill_async.c6f27998.js?o=www" type="text/javascript" crossorigin="anonymous" async></script>  <script src="https://pm.pstatic.net/dist/js/vendors~search.4db2eeeb.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>   <script src="https://pm.pstatic.net/dist/js/search.5b17f175.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>  <script src="https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.cd8eaf3c.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/vendors~nmain.b342e165.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/nmain.ccf2bc30.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <style>:root{color-scheme:light}#_nx_kbd .setkorhelp a{display:none}</style> </head> <body> <div id="u_skip"> <a href="#newsstand"><span>뉴스스탠드 바로가기</span></a> <a href="#themecast"><span>주제별캐스트 바로가기</span></a> <a href="#timesquare"><span>타임스퀘어 바로가기</span></a> <a href="#shopcast"><span>쇼핑캐스트 바로가기</span></a> <a href="#account"><span>로그인 바로가기</span></a> </div> <div id="wrap"> <style type="text/css">._1syGnXOL{padding-right:18px;font-size:14px;line-height:0;letter-spacing:-.25px;color:#000}._1syGnXOL span,._1syGnXOL strong{line-height:49px}._1syGnXOL:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20201210@2x.png);background-repeat:no-repeat;background-size:114px 107px;width:18px;height:18px;margin:16px 8px 0 0;background-position:0 -89px}[data-useragent*="MSIE 8"] ._1syGnXOL:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20201210.png)}._1syGnXOL._3dsvmZg2:before{background-position:-68px -63px}._1syGnXOL._1NBFx1WK:before{width:20px;height:20px;margin:15px 8px 0 0;background-position:-26px -85px}._1syGnXOL._2mcQEKCd:before{width:22px;height:22px;margin:14px 7px 0 0;background-position:-26px -63px}._1syGnXOL._18YOHi7v{color:#fff}._1syGnXOL._3di88A4c{padding-right:12px;font-size:17px}._1syGnXOL._3di88A4c:before{content:none}._1syGnXOL._3jtl_dKE{font-size:16px}._1syGnXOL ._19K4X1CD{text-decoration:underline}._2aeXMlrb{display:inline-block;position:relative;font-size:12px;height:49px;width:78px;text-decoration:none;color:#fff;font-weight:700;letter-spacing:-.5px;vertical-align:top}._2aeXMlrb span{text-align:center;margin:9px 0;height:31px;display:block;line-height:31px;border-radius:15px}._2aeXMlrb span:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20201210@2x.png);background-repeat:no-repeat;background-size:114px 107px}[data-useragent*="MSIE 8"] ._2aeXMlrb span:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20201210.png)}._2aeXMlrb.BMgpjddw{font-size:11px;width:94px}._2aeXMlrb.BMgpjddw span:before{margin:9px 3px 0 0;width:17px;height:13px;background-position:-98px -30px}._3h-N8T9V{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0)}._1KncATpM{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20201210@2x.png);background-repeat:no-repeat;background-size:114px 107px;margin-top:14px;float:left;width:98px;height:21px;background-position:0 -21px}[data-useragent*="MSIE 8"] ._1KncATpM{background-image:url(https://static-whale.pstatic.net/main/sprite-20201210.png)}._1KncATpM._2v3uxv2x{background-position:0 0}._1KncATpM._1yl_Ow6o{background-position:0 -42px}._20PYt6lT{font-size:11px;height:49px;cursor:pointer;position:absolute;top:0;right:0;color:#666;opacity:.7}._20PYt6lT:after{width:15px;height:15px;margin-left:4px;background-position:-98px 0;display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20201210@2x.png);background-repeat:no-repeat;background-size:114px 107px}[data-useragent*="MSIE 8"] ._20PYt6lT:after{background-image:url(https://static-whale.pstatic.net/main/sprite-20201210.png)}._20PYt6lT._39oMCV2N:after{background-position:-98px -15px}._20PYt6lT._3wm5EzmJ{color:#fff}._20PYt6lT._3wm5EzmJ:after{background-position:-48px -83px}._1hiMWemA{height:49px}._1hiMWemA .tY_u8r23{position:relative;width:1130px;margin:0 auto}._1hiMWemA .tY_u8r23 a{text-decoration:none}._1hiMWemA._23U_6TM_{position:relative}._1hiMWemA._23U_6TM_:after{position:absolute;z-index:1;content:"";display:block;width:100%;height:1px;bottom:0;background-color:rgba(0,0,0,.050980392156862744)}</style>                  <div id="NM_TOP_BANNER" data-clk-prefix="top" class="_1hiMWemA" style="background-color: #f3f1ff">
+<div class="tY_u8r23">
+<a class="_3h-N8T9V" href='https://whale.naver.com/details/darkmode?=main&wpid=RydDy7'
+data-clk="dropbanner1a"></a>
+<i class="_1KncATpM"><span class="blind">NAVER whale</span></i>
+<img src="https://static-whale.pstatic.net/main/img_darkmode@2x.png" width="303" height="49" alt=""
+style="padding-left: 48px"/>
+<span class="_1syGnXOL _3di88A4c" data-clk="dropbanner1a" style="padding-right: 10px; padding-left: 8px"><span>여러분의
+눈은 소중하니까, </span><strong>지금 바로 다크 모드를 켜세요!</strong></span>
+<a href='https://installer-whale.pstatic.net/downloads/banner/RydDy7/WhaleSetup.exe' class="_2aeXMlrb" id="NM_whale_download_btn"
+data-clk="dropdownload1a"><span style="background-color: #7c56d5">다운로드</span></a>
+<button type="button" data-ui-cookie-exp-days="3" data-ui-cookie-key="NM_TOP_PROMOTION" data-ui-cookie-value="1"
+data-ui-hide-target="#NM_TOP_BANNER" data-clk="dropclose1a" class="_20PYt6lT _39oMCV2N"
+style="display: none">
+3일 동안 보지 않기
+</button>
+</div>
+</div>
+  <div id="header" role="banner">
+
+
+
+
+
+
+
+
+<div class="special_bg">
+<div class="group_flex">
+<div class="logo_area">
+<h1 class="logo_default">
+<a href="/" class="logo_naver" data-clk="top.logo"
+><span class="blind">네이버</span></a
+>
+</h1>
+</div>
+<div class="service_area">
+<a id="NM_set_home_btn" href="https://help.naver.com/support/welcomePage/guide.help" class="link_set" data-clk="top.mkhome">네이버를 시작페이지로</a>
+<i class="sa_bar"></i>
+<a href="https://jr.naver.com" class="link_jrnaver" data-clk="top.jrnaver"><i class="ico_jrnaver"></i><span class="blind">쥬니어네이버</span></a>
+<a href="https://happybean.naver.com" class="link_happybin" data-clk="top.happybean"><i class="ico_happybin"></i><span class="blind">해피빈</span></a>
+</div>
+
+<div id="search" class="search_area" data-clk-prefix="sch">
+<form id="sform" name="sform" action="https://search.naver.com/search.naver" method="get" role="search">
+<fieldset>
+<legend class="blind">검색</legend>
+<select id="where" name="where" title="검색 범위 선택" class="blind">
+<option value="nexearch" selected="selected">통합검색</option><option value="post">블로그</option><option value="cafeblog">카페</option><option value="cafe">- 카페명</option><option value="article">- 카페글</option><option value="kin">지식iN</option><option value="news">뉴스</option><option value="web">사이트</option><option value="category">- 카테고리</option><option value="site">- 사이트</option><option value="movie">영화</option><option value="webkr">웹문서</option><option value="dic">사전</option><option value="100">- 백과사전</option><option value="endic">- 영어사전</option><option value="eedic">- 영영사전</option><option value="krdic">- 국어사전</option><option value="jpdic">- 일본어사전</option><option value="hanja">- 한자사전</option><option value="terms">- 용어사전</option><option value="book">책</option><option value="music">음악</option><option value="doc">전문자료</option><option value="shop">쇼핑</option><option value="local">지역</option><option value="video">동영상</option><option value="image">이미지</option><option value="mypc">내PC</option><optgroup label="스마트 파인더"><option value="movie">영화</option><option value="auto">자동차</option><option value="game">게임</option><option value="health">건강</option><option value="people">인물</option></optgroup><optgroup label="네이버 랩"><option>긍정부정검색</option></optgroup>
+</select>
+<input type="hidden" id="sm" name="sm" value="top_hty" />
+<input type="hidden" id="fbm" name="fbm" value="0" />
+<input type="hidden" id="acr" name="acr" value="" disabled="disabled" />
+<input type="hidden" id="acq" name="acq" value="" disabled="disabled" />
+<input type="hidden" id="qdt" name="qdt" value="" disabled="disabled" />
+<input type="hidden" id="ie" name="ie" value="utf8" />
+<input type="hidden" id="acir" name="acir" value="" disabled="disabled" />
+<input type="hidden" id="os" name="os" value="" disabled="disabled" />
+<input type="hidden" id="bid" name="bid" value="" disabled="disabled" />
+<input type="hidden" id="pkid" name="pkid" value="" disabled="disabled" />
+<input type="hidden" id="eid" name="eid" value="" disabled="disabled" />
+<input type="hidden" id="mra" name="mra" value="" disabled="disabled" />
+
+
+
+<div class="green_window" style=''>
+<!-- [AU] data-atcmp-element 에 해당하는 attribute를 추가해주세요. -->
+<input id="query" name="query" type="text" title="검색어 입력" maxlength="255" class="input_text" tabindex="1" accesskey="s" style="ime-mode:active;" autocomplete="off"  placeholder="검색어를 입력해 주세요." onclick="document.getElementById('fbm').value=1;" value="" data-atcmp-element>
+</div>
+<button id="search_btn" type="submit" title="검색" tabindex="3" class="btn_submit" onclick="window.nclick(this,'sch.action','','',event);" style=''>
+<span class="blind">검색</span>
+<span class="ico_search_submit"></span>
+</button>
+</fieldset>
+</form>
+<!-- 한글입력기 -->
+<a href="#" id="ke_kbd_btn" role="button" class="btn_keyboard" onclick="return false;"><span class="blind">한글 입력기</span><span class="ico_keyboard"></span></a>
+<div id="_nx_kbd" style="display:none;"></div>
+<div class="autocomplete">
+<!-- 자동완성 열린 경우 fold 클래스 추가, 딤드인 경우 dim 추가 -->
+<a href="#" role="button" id="nautocomplete" tabindex="2" class="btn_arw _btn_arw fold" aria-pressed="false" data-atcmp-element><span class="blind">자동완성 레이어</span><span class="ico_arr"></span></a>
+</div>
+<!-- 자동완성레이어 -->
+<div id="autoFrame" class="reatcmp" style="display: none;">
+<!-- [AU] data-atcmp-element attribute를 추가해주세요. -->
+<div class="ly_atcmp" data-atcmp-element>
+<div class="api_atcmp_wrap">
+<!-- 최근검색어 -->
+<!-- [AU] _recent_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _recent_layer" style="display:none;">
+<!-- [AU] _recent_header 클래스를 추가해주세요. -->
+<div class="atcmp_header _recent_header">
+<strong class="tit">최근검색어</strong>
+<div class="option">
+<!-- [AU] _delAll 클래스를 추가해주세요. -->
+<a role="button" href="#" class="item _delAll" aria-pressed="false">전체삭제</a>
+</div>
+</div>
+<div class="atcmp_container">
+<!-- [AU] _recent 클래스를 추가해주세요. -->
+<ul class="kwd_lst _recent">
+<!-- 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span><span>@txt@</span></span>
+</a>
+<span class="etc">
+<em class="date">@date@.</em>
+<!-- [AU] _del 클래스를 추가해주세요. -->
+<a href="#" role="button" class="bt_item _del" aria-pressed="false"><i class="imsc ico_del">삭제</i></a>
+</span>
+</li>
+</ul>
+<!-- [D] 검색어 저장 꺼진 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _offMsg 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_off _offMsg" style="display: none;">검색어 저장 기능이 꺼져 있습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+<!-- [D] 검색어 내역 없는 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _recentNone 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_none _recentNone" style="display: none;">최근 검색어 내역이 없습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&amp;categoryNo=1991" data-clk="sly.help" target="_blank">도움말</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _keywordOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _keywordOnOff">자동저장 끄기</a>
+</span>
+</span>
+</div>
+</div>
+<!-- 자동완성 -->
+<!-- [AU] _atcmp_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _atcmp_layer" style="display:none;">
+<!-- [AU] _words 클래스를 추가해주세요. -->
+<div class="atcmp_container _words">
+<!-- 정답형 템플릿 : 로또당첨번호 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_3" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_lotto _answer" data-template-type="answer_3" data-code="@code@" data-keyword="@1@">
+<a href="#" class="link_item">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@5@회차 당첨번호</span>
+<span class="dsc">
+<span class="item">추첨 @13@.</span><span class="item">지급기한 1년</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc lotto">
+<em class="n@6@">@6@</em><em class="n@7@">@7@</em><em class="n@8@">@8@</em><em class="n@9@">@9@</em><em class="n@10@">@10@</em><em class="n@11@">@11@</em><em class="imsc_bf bonus n@12@">@12@</em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 환율 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_9" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_exchange _answer" data-template-type="answer_9" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @11@">
+<!-- [D] 국가별 class 가나다순
+ZAR 남아프리카 공화국
+NPR 네팔
+NOK 노르웨이
+NZD 뉴질랜드
+TWD 대만
+DKK 덴마크
+RUB 러시아
+MOP 마카오
+MYR 말레이시아
+MXN 멕시코
+MNT 몽골
+USD 미국
+BHD 바레인
+BDT 방글라데시
+VND 베트남
+BRL 브라질
+SAR 사우디아라비아
+SEK 스웨덴
+CHF 스위스
+SGD 싱가포르
+AED 아랍에미리트
+GBP 영국
+EUR 유럽연합
+ILS 이스라엘
+EGP 이집트
+INR 인도
+IDR 인도네시아
+JPY 일본
+CNY 중국
+CZK 체코
+CLP 칠레
+KZT 카자흐스탄
+QAR 카타르
+CAD 캐나다
+KWD 쿠웨이트
+THB 태국
+TRY 터키
+PKR 파키스탄
+PLN 폴란드
+PHP 필리핀
+HUF 헝가리
+AUD 호주
+HKD 홍콩
+-->
+<span class="common_ico_kwd"><i class="imsc ico @12@">@14@</i></span>
+<div class="dsc_area">
+<span class="tit">@txt@<span class="sub">@currency@</span></span>
+<span class="dsc">
+<span class="item"><i class="imsc ico_arr"></i>@8@(@9@%)</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc"><em class="num">@6@</em>원</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 날씨(국내11, 해외12) -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_11" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_weather _answer" data-template-type="answer_11" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @12@">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@7@, @message@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">
+<!-- [D] 날씨별 class
+ico1 맑음(낮)
+ico2 맑음(밤)
+ico3 구름조금(낮)
+ico4 구름조금(밤)
+ico5 구름많음(낮)
+ico6 구름많음(밤)
+ico7 흐림
+ico8 약한비
+ico9 비
+ico10 강한비
+ico11 약한눈
+ico12 눈
+ico13 강한눈
+ico14 진눈깨비
+ico15 소나기
+ico16 안개
+ico17 소낙눈
+ico18 번개뇌우
+ico19 우박
+ico20 황사
+ico21 비또는눈
+ico22 가끔비
+ico23 가끔눈
+ico24 가끔비또는눈
+ico25 흐린후갬
+ico26 뇌우후갬
+ico27 비후갬
+ico28 눈후갬
+ico29 흐려져비
+ico30 흐려져눈
+-->
+<span class="ico_weather"><i class="imsc ico ico@iconNo@">@7@</i></span>
+<em class="degree">@8@<sup class="celsius">°</sup></em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 사이트 바로가기 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_17" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_site _answer" data-template-type="answer_17" data-code="@code@" data-keyword="@1@">
+<a href="@5@" class="link_item" target="_blank">
+<span class="common_ico_kwd"><i class="imsc ico_url"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@5@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">바로가기</span>
+</span>
+</a>
+</div>
+<!-- [AU] _kwd_list 클래스를 추가해주세요. -->
+<ul class="kwd_lst _kwd_list">
+<!-- [AU] 자동완성 검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [AU] 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<!-- 최근검색어 있으면 날짜 표시 -->
+<em class="date">@date@.</em>
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+</ul>
+<!-- [AU] 문맥검색 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="intend" data-keyword="@transQuery@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-intend-rank="@intendRank@" data-template-type="intend" data-keyword="@transQuery@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@query@ <span class="context">@intend@</span></span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [D] 선거안내문구 -->
+<!-- [AU] _alert 클래스를 추가해주세요. -->
+<div class="atcmp_alert _alert">
+<div class="dsc_election">
+<p class="dsc">
+<i class="imsc ico_election"></i><span class="_alert_passage"></span>
+</p>
+<span class="dsc_inner">
+<!-- [AU] _alert_passage2 클래스를 추가해주세요. -->
+<span class="_alert_passage2"></span>
+<!-- [AU] _alert_link 클래스를 추가해주세요. -->
+<a href="#" class="link _alert_link" target="_blank">자세히보기</a>
+</span>
+</div>
+</div>
+<!-- [AU] _plus 클래스를 추가해주세요. -->
+<div class="atcmp_plus _plus">
+<div class="dsc_plus">
+<a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=606&categoryNo=16658" class="link_dsc" data-clk="sug.cxhelp" target="_blank">관심사를 반영한 컨텍스트 자동완성<i class="imsc ico_help">도움말</i></a>
+</div>
+<div class="switch">
+<!-- [D] 선택시 aria-pressed="ture/false" -->
+<!-- [AU] _plus_btn 클래스를 추가해주세요. -->
+<a role="button" href="#" class="bt_switch active _plus_btn" aria-pressed="false"><i class="imsc ico_option">컨텍스트 자동완성</i></a>
+</div>
+<!-- [AU] _plus_layer 클래스를 추가해주세요. -->
+<div class="layer_plus _plus_layer">
+<strong class="tit">컨텍스트 자동완성</strong>
+<!-- [AU] _plus_layer_isloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isloggedin" style="display:none">
+<p class="dsc">ON/OFF 설정은<br>해당기기(브라우저)에 저장됩니다.</p>
+<div class="btn_area">
+<a href="https://help.naver.com/support/contents/contents.help?serviceNo=606&categoryNo=16659" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_isnotloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isnotloggedin" style="display:none">
+<p class="dsc"><em class="txt">동일한 시간대/연령/남녀별</em> 사용자 그룹의<br>관심사에 맞춰 자동완성을 제공합니다.</p>
+<div class="btn_area">
+<a href="https://nid.naver.com/nidlogin.login" class="btn btn_login" data-clk="sug.cxlogin">로그인</a>
+<a href="https://help.naver.com/support/alias/search/word/word_16.naver" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_close 클래스를 추가해주세요. -->
+<a href="#" role="button" class="btn_close _plus_layer_close"><i class="imsc ico_close">컨텍스트 자동완성 레이어 닫기</i></a>
+</div>
+</div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&categoryNo=1987" data-clk="sug.help" target="_blank">도움말</a></span>
+<span class="opt_item"><a href="https://help.naver.com/support/contents/contents.help?serviceNo=605&categoryNo=18215" class="report" data-clk="sug.report" target="_blank">신고</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _suggestOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _suggestOnOff">자동완성 끄기</a>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div id="promotion11">
+<a href="https://search.naver.com/search.naver?where=nexearch&amp;sm=top_ros&amp;fbm=1&amp;ie=utf8&amp;query=%EB%8F%99%ED%95%99%EB%86%8D%EB%AF%BC%ED%98%81%EB%AA%85+%EA%B8%B0%EB%85%90%EC%9D%BC" data-clk="top.ann">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2021/0426/mobile_174758677536.png" width="225" height="56" alt="동학농민혁명 기념일">
+</a>
+</div>
+<div id="gnb">
+<div id="NM_FAVORITE" class="gnb_inner">
+<div class="group_nav">
+<ul class="list_nav type_fix">
+<li class="nav_item">
+<a href="https://mail.naver.com/" class="nav" data-clk="svc.mail"><i class="ico_mail"></i>메일</a>
+</li>
+<li class="nav_item"><a href="https://section.cafe.naver.com/" class="nav" data-clk="svc.cafe">카페</a></li>
+<li class="nav_item"><a href="https://section.blog.naver.com/" class="nav" data-clk="svc.blog">블로그</a></li>
+<li class="nav_item"><a href="https://kin.naver.com/" class="nav" data-clk="svc.kin">지식iN</a></li>
+<li class="nav_item"><a href="https://shopping.naver.com/" class="nav" data-clk="svc.shopping">쇼핑</a></li>
+<li class="nav_item"><a href="https://order.pay.naver.com/home" class="nav" data-clk="svc.pay">Pay</a></li>
+<li class="nav_item">
+<a href="https://tv.naver.com/" class="nav" data-clk="svc.tvcast"><i class="ico_tv"></i>TV</a>
+</li>
+</ul>
+<ul
+class="list_nav NM_FAVORITE_LIST"
+>
+<li class="nav_item"><a href="https://dict.naver.com/" class="nav" data-clk="svc.dic">사전</a></li>
+<li class="nav_item"><a href="https://news.naver.com/" class="nav" data-clk="svc.news">뉴스</a></li>
+<li class="nav_item"><a href="https://finance.naver.com/" class="nav" data-clk="svc.stock">증권</a></li>
+<li class="nav_item"><a href="https://land.naver.com/" class="nav" data-clk="svc.land">부동산</a></li>
+<li class="nav_item"><a href="https://map.naver.com/" class="nav" data-clk="svc.map">지도</a></li>
+<li class="nav_item"><a href="https://movie.naver.com/" class="nav" data-clk="svc.movie">영화</a></li>
+<li class="nav_item"><a href="https://vibe.naver.com/" class="nav" data-clk="svc.vibe">VIBE</a>
+<li class="nav_item"><a href="https://book.naver.com/" class="nav" data-clk="svc.book">책</a></li>
+<li class="nav_item"><a href="https://comic.naver.com/" class="nav" data-clk="svc.webtoon">웹툰</a></li>
+
+</ul>
+<ul class="list_nav type_empty" style="display: none;"></ul>
+<a href="#" role="button" class="btn_more" data-clk="svc.more">더보기</a>
+<div class="ly_btn_area">
+<a href="more.html" class="btn NM_FAVORITE_ALL" data-clk="map.svcmore">서비스 전체보기</a>
+<a href="#" role="button" class="btn btn_set" data-clk="map.edit">메뉴설정</a>
+<a href="#" role="button" class="btn btn_reset" data-clk="edt.reset">초기화</a>
+<a href="#" role="button" class="btn btn_save" data-clk="edt.save">저장</a>
+</div>
+</div>
+<div id="NM_WEATHER" class="group_weather">
+<div>
+<a data-clk="squ.weat" href="https://weather.naver.com/today/02190109" class="weather_area ico_w05">
+<div class="current_box">
+<strong class="current" aria-label="현재기온">17.9°</strong><strong class="state">구름많음</strong>
+</div>
+<div class="degree_box">
+<span class="min" aria-label="최저기온">11.0°</span><span class="max" aria-label="최고기온">26.0°</span>
+</div>
+<span class="location">상동</span>
+</a>
+</div>
+<div>
+<a data-clk="squ.dust" href="https://weather.naver.com/today/02190109" class="air_area">
+<ul class="list_air">
+<li class="air_item">미세<strong class="state state_good">좋음</strong></li>
+<li class="air_item">초미세<strong class="state state_good">좋음</strong></li>
+</ul>
+<span class="location">상동</span>
+</a>
+</div>
+
+</div>
+</div>
+<div class="ly_service">
+<div class="group_service NM_FAVORITE_ALL_LY"></div>
+<div class="group_service NM_FAVORITE_EDIT_LY" style="display: none;"></div>
+</div>
+</div>
+</div>
+ <div id="container" role="main"> <div style="position:relative;width:1130px;margin:0 auto;z-index:11"> <div id="da_top"></div> <div id="da_expwide"></div> </div> <div id="NM_INT_LEFT" class="column_left">  <div id="veta_top"> <iframe id="da_iframe_time" name="da_iframe_time" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10599&amp;nrefreshx=0" data-veta-preview="main_time" title="광고" width="750" height="135" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"> </iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div> <div id="newsstand" class="sc_newscast"> <h2 class="blind">뉴스스탠드</h2> <div id="NM_NEWSSTAND_HEADER" class="group_issue" data-clk-prefix="ncy"> <div class="issue_area"> <a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y" class="link_media" data-clk="newsflash">연합뉴스</a> <div id="yna_rolling" class="list_issue"> <div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012385086" class="issue" data-clk="quickarticle"><strong>[긴급] </strong>신규확진 511명, 다시 500명대로…전국적 '일상 감염' 지속</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384734" class="issue" data-clk="quickarticle">"투기 정황 없다" 공공기관 겉핥기 셀프조사에 여론 '부글'</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384775" class="issue" data-clk="quickarticle">文정부 4년새 서울 아파트 청약 경쟁률 6배로 치솟아</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012385072" class="issue" data-clk="quickarticle">SKIET 상장 직후 20% 이상 급락…'따상' 실패</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384881" class="issue" data-clk="quickarticle">5월 1∼10일 수출 81.2%↑…일평균 기준 64.7%↑</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012385063" class="issue" data-clk="quickarticle">"만져보고 싶다"…'단톡방 성희롱' 경찰관들 조사</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384927" class="issue" data-clk="quickarticle">동예루살렘 갈등 속 이스라엘, 팔레스타인 공습…"20명 사망"</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384996" class="issue" data-clk="quickarticle">천안 해태제과 공장서 작업 중 4명 추락…중상 1명·경상 3명</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384963" class="issue" data-clk="quickarticle">빌 게이츠 딸, 부모 이혼 발표뒤 가족사진 공개…'아빠 빼고'</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012384909" class="issue" data-clk="quickarticle">이더리움 500만원 안팎 강세…비트코인·도지코인 하락</a></div> </div> </div> <div class="direct_area"> <a href="http://news.naver.com/" class="link_news" data-clk="newshome">네이버뉴스</a>
+<a href="http://entertain.naver.com/home" class="link_direct" data-clk="entertainment">연예</a>
+<a href="http://sports.news.naver.com/" class="link_direct" data-clk="sports">스포츠</a>
+<a href="http://news.naver.com/main/main.nhn?mode=LSD&mid=shm&sid1=101" class="link_direct" data-clk="economy">경제</a> </div> </div>        <div id="NM_NEWSSTAND_TITLE" class="group_title" data-clk-prefix="nsd"> <a href="http://newsstand.naver.com/" class="link_newsstand" data-clk="title" target="_blank">뉴스스탠드</a> <div id="NM_NEWSSTAND_data_buttons" class="sort_area">  <a href="#" role="button" data-type="my" data-clk="my" class="btn_sort">구독한 언론사</a> <a href="#" role="button" data-type="all" data-clk="all" class="btn_sort sort_on">전체언론사</a>  </div> <div id="NM_NEWSSTAND_view_buttons" class="set_area">  <a href="#" role="button" data-type="list" data-clk="articleview" class="btn_set"> <i class="ico_list"><span class="blind">리스트형</span></i></a> <a href="#" role="button" data-type="thumb" data-clk="pressview" class="btn_set set_on"> <i class="ico_tile"><span class="blind">썸네일형</span></i></a>  <a href="http://newsstand.naver.com/config.html" class="btn_set" data-clk="set" target="_blank"> <i class="ico_set"><span class="blind">설정</span></i></a> </div> </div> <div id="NM_NEWSSTAND_VIEW_CONTAINER" style="position:relative"> <div id="NM_NEWSSTAND_DEFAULT_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option"> <li class="option_item" data-cateid="ct2"><a href="#" class="option" data-clk="daei">종합/경제</a></li> <li class="option_item" data-cateid="ct3"><a href="#" class="option" data-clk="dtvcom">방송/통신</a></li> <li class="option_item" data-cateid="ct4"><a href="#" class="option" data-clk="dit">IT</a></li> <li class="option_item" data-cateid="ct5"><a href="#" class="option" data-clk="deng">영자지</a></li> <li class="option_item" data-cateid="ct6"><a href="#" class="option" data-clk="dsporent">스포츠/연예</a></li> <li class="option_item" data-cateid="ct7"><a href="#" class="option" data-clk="dmagtec">매거진/전문지</a></li> <li class="option_item" data-cateid="ct8"><a href="#" class="option" data-clk="dloc">지역</a></li> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a"></div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div>   <div id="NM_NEWSSTAND_DEFAULT_THUMB" class="group_news" style="display:block" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" style="height:100%;overflow:hidden" data-clk-sub="*p">   <div style="width: 750px; float: left;">
+<div class="tile_view">
+<div class="frame_area">
+<i class="line to_right1"></i>
+<i class="line to_right2"></i>
+<i class="line to_right3"></i>
+<i class="line to_bottom1"></i>
+<i class="line to_bottom2"></i>
+<i class="line to_bottom3"></i>
+<i class="line to_bottom4"></i>
+<i class="line to_bottom5"></i>
+</div>
+<div class="thumb_area">
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="930"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/930.png"
+height="20"
+alt="뉴스타파"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="930"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="930"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=930"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="930"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="079"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/079.png"
+height="20"
+alt="노컷뉴스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="079"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="079"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=079"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="079"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="055"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/055.png"
+height="20"
+alt="SBS"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="055"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="055"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=055"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="055"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="002"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/002.png"
+height="20"
+alt="프레시안"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="002"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="002"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=002"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="002"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="038"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/038.png"
+height="20"
+alt="한국일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="038"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="038"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=038"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="038"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="422"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/422.png"
+height="20"
+alt="연합뉴스TV"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="422"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="422"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=422"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="422"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="092"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/092.png"
+height="20"
+alt="지디넷코리아"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="092"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="092"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=092"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="092"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="006"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/006.png"
+height="20"
+alt="미디어오늘"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="006"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="006"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=006"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="006"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="015"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/015.png"
+height="20"
+alt="한국경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="015"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="015"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=015"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="015"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="018"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/018.png"
+height="20"
+alt="이데일리"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="018"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="018"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=018"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="018"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="023"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0903/nsd185255316.png"
+height="20"
+alt="조선일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="023"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="023"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=023"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="023"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="109"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0610/nsd151458769.png"
+height="20"
+alt="OSEN"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="109"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="109"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=109"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="109"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="003"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/003.png"
+height="20"
+alt="뉴시스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="003"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="003"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=003"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="003"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="016"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/016.png"
+height="20"
+alt="헤럴드경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="016"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="016"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=016"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="016"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="330"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/330.png"
+height="20"
+alt="중앙데일리"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="330"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="330"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=330"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="330"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="338"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/338.png"
+height="20"
+alt="경인일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="338"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="338"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=338"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="338"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="387"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/387.png"
+height="20"
+alt="인천일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="387"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="387"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=387"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="387"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="926"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/926.png"
+height="20"
+alt="중부일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="926"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="926"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=926"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="926"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="828"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2021/0211/nsd0427277.png"
+height="20"
+alt="식품저널 foodnews"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="828"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="828"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=828"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="828"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="344"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0803/nsd20247547.png"
+height="20"
+alt="EBS"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="344"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="344"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=344"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="344"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="903"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/903.png"
+height="20"
+alt="채널에이"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="903"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="903"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=903"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="903"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="802"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/802.png"
+height="20"
+alt="스포츠Q"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="802"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="802"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=802"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="802"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="972"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/972.png"
+height="20"
+alt="PD저널"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="972"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="972"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=972"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="972"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="536"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/536.png"
+height="20"
+alt="더팩트"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="536"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="536"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=536"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="536"
+>기사보기</a
+>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br/>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div> <div id="NM_NEWSSTAND_MY_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"></i><span class="blind">이전</span></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"></i><span class="blind">다음</span><span class="blind">다음</span></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option _NM_NEWSSTAND_MY_presslist"> <!-- nvpaperlist:empty --> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a">  </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_THUMB" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" data-clk-sub="*p"></div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_EMPTY" class="group_news" style="display:none"> <div class="error_view"> <div class="error_area"> <strong class="error_msg">구독한 언론사가 없습니다.</strong> <p class="dsc_msg">언론사 구독 설정에서 관심있는 언론사를 구독하시면<br>언론사가 직접 편집한 뉴스들을 네이버 홈에서 바로 보실 수 있습니다.</p> <a href="http://newsstand.naver.com/config.html" class="link_redirect" target="_blank">언론사 구독 설정하기</a> </div> </div> </div> </div> </div> <!-- EMPTY --> <div id="NM_THEMECAST_CONTENTS_CONTAINER"> <div id="themecast" class="sc_themecast id_gameapp" >
+	<h2 class="blind">주제별 캐스트</h2>
+	<div class="theme_head">
+		<div class="group_title">
+	<div class="title_area">
+		<strong class="title">오늘 읽을만한 글</strong><span class="dsc">주제별로 분류된 다양한 글 모음</span>
+	</div>
+	<div class="info_area">
+		
+			<span class="info"><strong class="new">1,846</strong> 개의 글</span>
+		
+		<a id="NM_THEME_EDIT_SET" href="#" role="button" class="btn_set" data-clk="tca.like">관심주제 설정</a>
+	</div>
+</div>
+<div class="theme_fix_wrap">
+	<div id="NM_THEME_CATE_GROUPS" class="group_category" data-demo-key="default">
+		<div class="main_category">
+			<a href="#" role="button" class="pm_btn_prev NM_THEME_PREV" data-clk="tct.prev" style="display: none;">
+				<i class="ico_btn"><span class="blind">이전</span></i>
+			</a>
+			<a href="#" role="button" class="pm_btn_next NM_THEME_NEXT" data-clk="tct.next" style="display: none;">
+				<i class="ico_btn"><span class="blind">다음</span></i>
+			</a>
+			<div id="NM_THEME_CATE_FLICK" class="_NM_UI_PAGE_CONTAINER" style="height: 49px; overflow: hidden;">
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_enter"
+									   aria-selected="false"
+									   data-clk="tct.tvc" data-panel-code="ENTER">엔터</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_sports"
+									   aria-selected="false"
+									   data-clk="tct.spo" data-panel-code="SPORTS">스포츠</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_cargame"
+									   aria-selected="false"
+									   data-clk="tct.aut" data-panel-code="CARGAME">자동차</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_bboom"
+									   aria-selected="false"
+									   data-clk="tct.web" data-panel-code="BBOOM">웹툰</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_finance"
+									   aria-selected="false"
+									   data-clk="tct.fin" data-panel-code="FINANCE">경제M</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_living"
+									   aria-selected="false"
+									   data-clk="tct.fod" data-panel-code="LIVING">레시피</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_gameapp"
+									   aria-selected="true"
+									   data-clk="tct.gam" data-panel-code="GAMEAPP">게임</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_movie"
+									   aria-selected="false"
+									   data-clk="tct.mov" data-panel-code="MOVIE">영화</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_job"
+									   aria-selected="false"
+									   data-clk="tct.job" data-panel-code="JOB">JOB&amp;</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_ittech"
+									   aria-selected="false"
+									   data-clk="tct.tec" data-panel-code="ITTECH">테크</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_travel"
+									   aria-selected="false"
+									   data-clk="tct.tra" data-panel-code="TRAVEL">여행+</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_science"
+									   aria-selected="false"
+									   data-clk="tct.sci" data-panel-code="SCIENCE">과학</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_livinghome"
+									   aria-selected="false"
+									   data-clk="tct.lif" data-panel-code="LIVINGHOME">리빙</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_health"
+									   aria-selected="false"
+									   data-clk="tct.hea" data-panel-code="HEALTH">건강</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_business"
+									   aria-selected="false"
+									   data-clk="tct.bsn" data-panel-code="BUSINESS">비즈니스</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_wedding"
+									   aria-selected="false"
+									   data-clk="tct.wed" data-panel-code="WEDDING">연애·결혼</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_culture"
+									   aria-selected="false"
+									   data-clk="tct.bok" data-panel-code="CULTURE">책방</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_momkids"
+									   aria-selected="false"
+									   data-clk="tct.mom" data-panel-code="MOMKIDS">부모i</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_law"
+									   aria-selected="false"
+									   data-clk="tct.law" data-panel-code="LAW">법률</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_beauty"
+									   aria-selected="false"
+									   data-clk="tct.bty" data-panel-code="BEAUTY">패션뷰티</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_animal"
+									   aria-selected="false"
+									   data-clk="tct.ani" data-panel-code="ANIMAL">동물공감</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_design"
+									   aria-selected="false"
+									   data-clk="tct.des" data-panel-code="DESIGN">디자인</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_china"
+									   aria-selected="false"
+									   data-clk="tct.chn" data-panel-code="CHINA">중국</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_farm"
+									   aria-selected="false"
+									   data-clk="tct.far" data-panel-code="FARM">FARM</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_show"
+									   aria-selected="false"
+									   data-clk="tct.sow" data-panel-code="SHOW">공연전시</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_with"
+									   aria-selected="false"
+									   data-clk="tct.pub" data-panel-code="WITH">함께N</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_school"
+									   aria-selected="false"
+									   data-clk="tct.scl" data-panel-code="SCHOOL">스쿨잼</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+	<div class="theme_cont" data-panel-code="GAMEAPP">
+		
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-0" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_b4a389e6-af21-11eb-90f9-a3ff3e39cb07" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442152&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list1cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384779911HQazG.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384779911HQazG.jpg%22&amp;type&#x3D;nf340_228" alt="대만·홍콩 발언 &#x27;새별비&#x27; 보이콧한 중국 4팀, 활동 재개 선언" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442152&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list1cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">대만·홍콩 발언 '새별비' 보이콧한 중국 4팀, 활동 재개 선언</strong>
+						<p class="desc">지난 4월 17일에 2021 시즌이 개막한 오버워치 리그가 초기부터 시끌시끌했다. 오버워치 리그 중국 연고지 4팀이 ‘새별비’ 박종렬이 참여하는 모든 행사와 대회에 참가하지 않겠다고 선언하며 갈등이 불거진 것이다. 이후 오버워치 리그 및 팀들이 협의를 진행했고, 그 결과 중국 4팀이 보이콧을 철회했다. 사건은 지난 4월에 불거졌다. 당</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임메카</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b4a389e8-af21-11eb-90f9-ddb5e97cb11d" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31438033&amp;memberNo&#x3D;4505449" class="theme_thumb" data-clk="tcc_gam.list1cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384807497Anpc1.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384807497Anpc1.jpg%22&amp;type&#x3D;nf340_228" alt="데바데 고인물 ‘살구’가 스트리머로 살아가는 법" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31438033&amp;memberNo&#x3D;4505449" class="theme_info" data-clk="tcc_gam.list1cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">데바데 고인물 ‘살구’가 스트리머로 살아가는 법</strong>
+						<p class="desc">‘데드 바이 데이라이트’는 최근 다양한 창구를 통해 잔잔한 인기를 끌고 있는 공포 게임입니다. 기본적으로 생존자 4명과 살인마 1명으로 나눠 서로 쫓고 쫓기는 대결을 펼치는 비대칭 서바이벌 대전게임으로, 간단한 방식이지만 정말 잘하기는 힘든 게임에 해당하죠. 대체로 한 게임당 두 명을 조금 넘기는 인원이 잡히는데요. 아직은 &amp;lsquo</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">PNN</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da1917-af21-11eb-9551-1791e1ec8311" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434356&amp;memberNo&#x3D;2038467" class="theme_thumb" data-clk="tcc_gam.list1cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386519876A8Ujz.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386519876A8Ujz.jpg%22&amp;type&#x3D;nf340_228" alt="오월은 푸르러서 스승의 은혜와 함께하는 코스프레!" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434356&amp;memberNo&#x3D;2038467" class="theme_info" data-clk="tcc_gam.list1cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">오월은 푸르러서 스승의 은혜와 함께하는 코스프레!</strong>
+						<p class="desc">안녕하세요 Team CSL 입니다! 2021년도 1/3이 지나 봄날씨가 완연한 5월이 찾아왔습니다!5월은 가정의 달인 만큼 여러 기념일들이 있는데요! 오늘은 가정의 달 특집 코스프레로 꾸며 보았습니다!5월은 푸르구나 우리들은 자라난다! 어린이날어린이를 기념하기 위해 제정된 어린이날. 한국에서는 매년 양력 5월 5일이면 어린이날로 정해 미래 사회의 주역인 어</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">TeamCSL</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da1918-af21-11eb-9551-f5ea456e6924" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434036" class="theme_thumb" data-clk="tcc_gam.list1cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386559110yKJsL.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386559110yKJsL.jpg%22&amp;type&#x3D;nf340_228" alt="야숨라이크? 카툰렌더링 오픈월드 4종 둘러보기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434036" class="theme_info" data-clk="tcc_gam.list1cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">야숨라이크? 카툰렌더링 오픈월드 4종 둘러보기</strong>
+						<p class="desc">2017년 출시된 &#x27;젤다의 전설 브레스 오브 더 와일드(이하 야생의 숨결)&#x27;은 게이머들에게 큰 충격을 줬습니다. 그동안 오픈월드 게임에서 볼 수 없었던 혁신적인 모습을 선보이며 젤다의 전설 시리즈를 넘어 게임 역사상 가장 위대한 게임으로 자리매김했죠. 오죽하면 출시된 지 얼마 되지 않아 즐길 게임이 거의 없었던 닌텐도 스위치를 야생의 숨결이 </p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">게임조선</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da191a-af21-11eb-9551-3b6f3d2fdbbe" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31418925&amp;memberNo&#x3D;34059480" class="theme_thumb" data-clk="tcc_gam.list1cont5" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386686247coYY8.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386686247coYY8.jpg%22&amp;type&#x3D;nf340_228" alt="‘항해왕 열혈항선’, 원작 구현 잘했지만 게임은 ‘평범’" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31418925&amp;memberNo&#x3D;34059480" class="theme_info" data-clk="tcc_gam.list1cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">‘항해왕 열혈항선’, 원작 구현 잘했지만 게임은 ‘평범’</strong>
+						<p class="desc">일본 만화 ‘원피스’는 게임으로 자주 출시되는 작품 중 하나다. 중국에서도 이 작품을 소재로 하는 모바일 게임이 다수 출시됐었다. 그리고 최근 게임 산업을 적극적으로 확장하고 있는 바이트댄스가 모바일 게임으로 이 ‘시장’에 도전장을 내밀었다. 바로 ‘항해왕 열혈항선’(航海王 热血航线&amp;#</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">GAMEVU</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-VIDEO-0" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-VIDEO-LIST"
+
+	 data-index=""
+	 data-page="1"
+	 >
+
+	<div class="media_view_wrap type_column">
+		<div class="media_view">
+			
+				<a href="https://m.tv.naver.com/v/20046667" class="media_area" data-gdid="CAS_b937b830-af21-11eb-9cd4-abef2efc6b21" data-clk="tcc_gam.video1cont1" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385429670nqcKD.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385429670nqcKD.jpg%22&amp;type&#x3D;nf464_260" alt="디아블로 &#x27;이모탈&#x27; 출시 임박. 개발자 인터뷰와 QnA 정리!" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">06:15</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">디아블로 '이모탈' 출시 임박. 개발자 인터뷰와 QnA 정리!</strong>
+							<div class="source_wrap">
+								<span class="date">4일 전</span>
+								<span class="source"><span class="source_inner">루리웹 게임 동영상</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/20025224" class="media_area" data-gdid="CAS_b937b831-af21-11eb-9cd4-13309cfd68ef" data-clk="tcc_gam.video1cont2" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385462392nlDRC.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385462392nlDRC.jpg%22&amp;type&#x3D;nf464_260" alt="90년대 오락실게임 3~4인용 추천 게임" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">06:54</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">90년대 오락실게임 3~4인용 추천 게임</strong>
+							<div class="source_wrap">
+								<span class="date">5일 전</span>
+								<span class="source"><span class="source_inner">밀루유떼 콘솔게임</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/19967951" class="media_area" data-gdid="CAS_b937b832-af21-11eb-9cd4-25c0e445eec0" data-clk="tcc_gam.video1cont3" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385482535vsljG.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385482535vsljG.jpg%22&amp;type&#x3D;nf464_260" alt="세븐나이츠2 요즘 인기 많아지고 있는 방덱 공략" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">08:49</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">세븐나이츠2 요즘 인기 많아지고 있는 방덱 공략</strong>
+							<div class="source_wrap">
+								<span class="date">1주일 전</span>
+								<span class="source"><span class="source_inner">사키엘TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+		</div>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-1" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_b4a389e9-af21-11eb-90f9-a71ef379b737" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439000&amp;memberNo&#x3D;11878375&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list2cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384827803uKPOs.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384827803uKPOs.jpg%22&amp;type&#x3D;nf340_228" alt="10챔버스, &#x27;GTFO&#x27; 한국 게이머 플레이에 감명" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439000&amp;memberNo&#x3D;11878375&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list2cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">10챔버스, 'GTFO' 한국 게이머 플레이에 감명</strong>
+						<p class="desc">&quot;우리는 한국의 게이머와 스트리머들이 GTFO를 플레이하는 걸 지켜봐 왔습니다. 현지화 지원이 없음에도 그들이 얼마나 게임을 잘하는지, 또 게임을 어떻게 즐기는지, 얼마나 어려워하는지 등에 감명을 받았습니다.&quot;이는 스웨덴의 개발사 10챔버스컬렉티브(10 Chambers Collective, 이하 10챔버스)의 로빈 비요르켈&amp;</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임동아</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da191c-af21-11eb-9551-efa817093f82" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31431403&amp;memberNo&#x3D;24985926" class="theme_thumb" data-clk="tcc_gam.list2cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386748378UoeCr.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386748378UoeCr.jpg%22&amp;type&#x3D;nf340_228" alt="추억의 방아쇠를 당기다 &#x27;크로노트리거&#x27;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31431403&amp;memberNo&#x3D;24985926" class="theme_info" data-clk="tcc_gam.list2cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">추억의 방아쇠를 당기다 '크로노트리거'</strong>
+						<p class="desc">세상은 넓고 게임은 많습니다. 정보가 넘쳐나는 시대, 15년 역사의 게임 전문지 디스이즈게임에서 어떤 게임이 맛있는지, 맛없는지 대신 찍어먹어드립니다. 밥먹고 게임만 하는 TIG 기자들이 짧고 굵고 쉽게 여러분께 전해드립니다. TIG 퍼스트룩!여러분께 &#x27;추억&#x27;이란 어떤 의미인가요? 사람들은 대부분 추억을 두고 &#x27;언제 떠올려도 아름다고 아련한&#x27; 소중한 조각이</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">디스이즈게임</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da191b-af21-11eb-9551-715227a09b62" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31435008&amp;memberNo&#x3D;30365873" class="theme_thumb" data-clk="tcc_gam.list2cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386721157Iux8D.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386721157Iux8D.jpg%22&amp;type&#x3D;nf340_228" alt="이세계 시험물, [페르소나 5 더 로열]" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31435008&amp;memberNo&#x3D;30365873" class="theme_info" data-clk="tcc_gam.list2cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">이세계 시험물, [페르소나 5 더 로열]</strong>
+						<p class="desc">페르소나를 캐릭터 팔이 게임이라고 퉁칠 수도 있겠지만, 그렇게 말하기에는 캐릭터에 대한 고찰이 돋보이는 게임입니다. 특히 요즘처럼 게임 캐릭터에 대한 논쟁이 많은 시점에는 더욱 그렇죠. 이 참에 디스코 엘리시움의 캐릭터도 잠깐 돌아볼까요.</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">하얀쥐</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da1919-af21-11eb-9551-d7c43c84d25a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434821&amp;memberNo&#x3D;8661711&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list2cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386652939ZcqwI.png%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386652939ZcqwI.png%22&amp;type&#x3D;nf340_228" alt="프라이마크 탄생의 비밀" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434821&amp;memberNo&#x3D;8661711&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list2cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">프라이마크 탄생의 비밀</strong>
+						<p class="desc">※스포일러 주의※ 이번 화는 다음 작품(들)의 스포일러를 포함하고 있습니다.-소설 Vengeful Spirit-소설 The Master of Mankind-오디오 드라마 Malcador: First Lord of the Imperium 시즌 2 보러가기 본격 워햄만화: 인류의 첫 우주 진출, 테라의 시대 [BY 동굴트롤] 기다려주셔서 감사합니다. 앞으로도 </p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">동굴트롤</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_b6da191d-af21-11eb-9551-b370913d17db" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434527&amp;memberNo&#x3D;7447804" class="theme_thumb" data-clk="tcc_gam.list2cont5" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386780824GH31g.png%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386780824GH31g.png%22&amp;type&#x3D;nf340_228" alt="배그에서 어이없게 죽는 순간들| 배틀그라운드 모바일 웹툰" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31434527&amp;memberNo&#x3D;7447804" class="theme_info" data-clk="tcc_gam.list2cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">배그에서 어이없게 죽는 순간들| 배틀그라운드 모바일 웹툰</strong>
+						<p class="desc">게임을 하다보면 이게 왜 죽어???하는 순간이 있지 않나요?ㅋㅋㅋ어이없게 죽고나면 헛웃음과 함께 허무함이 밀려옵니다전 레드존이 너무 싫어요안 맞겠지~할 때 마다 꼭 한번씩 맞아 죽는....ㅠㅠ그래서 그냥 집에 있다가 끝나면 나갑니다 그게 속 편함^^</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">오야 OYA</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-VIDEO-1" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-VIDEO-LIST"
+
+	 data-index=""
+	 data-page="1"
+	 >
+
+	<div class="media_view_wrap type_column">
+		<div class="media_view">
+			
+				<a href="https://m.tv.naver.com/v/20051755" class="media_area" data-gdid="CAS_b1729564-af21-11eb-9551-ffc6684027f3" data-clk="tcc_gam.video2cont1" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385315719Khpav.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385315719Khpav.jpg%22&amp;type&#x3D;nf464_260" alt="21년 6월 닌텐도 스위치 신작 게임!!" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">07:26</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">21년 6월 닌텐도 스위치 신작 게임!!</strong>
+							<div class="source_wrap">
+								<span class="date">4일 전</span>
+								<span class="source"><span class="source_inner">GAMEPAC TV - 겜팍 TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/20048421" class="media_area" data-gdid="CAS_b1729565-af21-11eb-9551-91b512568c71" data-clk="tcc_gam.video2cont2" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385343425CRTO9.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385343425CRTO9.jpg%22&amp;type&#x3D;nf464_260" alt="호불호 적은! 플스 할인게임 추천" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">08:10</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">호불호 적은! 플스 할인게임 추천</strong>
+							<div class="source_wrap">
+								<span class="date">4일 전</span>
+								<span class="source"><span class="source_inner">록키장의 게임TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/20024320" class="media_area" data-gdid="CAS_b1729563-af21-11eb-9551-f5bc94f5a809" data-clk="tcc_gam.video2cont3" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385288236yKvSm.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385288236yKvSm.jpg%22&amp;type&#x3D;nf464_260" alt="유저들은 왜 게임사를 고소했을까" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">12:39</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">유저들은 왜 게임사를 고소했을까</strong>
+							<div class="source_wrap">
+								<span class="date">5일 전</span>
+								<span class="source"><span class="source_inner">펭귄몬스터</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+		</div>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-2" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_b4a389e7-af21-11eb-90f9-dbee000dbf22" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439600&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list3cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384793980qqqmz.jpg%22&amp;type&#x3D;nf340_228" alt="&#x27;F2P-모바일-영화&#x27; 유비소프트, 디비전 IP 확대 발표" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439600&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list3cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">'F2P-모바일-영화' 유비소프트, 디비전 IP 확대 발표</strong>
+						<p class="desc">유비소프트가 자사의 대표 게임 IP(지식재산권), 디비전 시리즈를 F2P(Free to Play)게임, 모바일게임, 소설, 영화로 확대한다. 유비소프트는 공식 홈페이지로 IP 확대 배경과 디비전: 하트랜드(이하 하트랜드)의 개발 소식을 밝혔다. 디비전2와 확장팩 뉴욕의 지배자 정식출시로 커뮤니티는 4천만 명 이상이</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임인사이트</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_bd753ace-af21-11eb-9551-b54cee89cefa" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442090&amp;memberNo&#x3D;49264302&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list3cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384928565qDElH.jpg%22&amp;type&#x3D;nf340_228" alt="포켓몬을 좋아한다면 사볼만한 스위치 신작게임" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442090&amp;memberNo&#x3D;49264302&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list3cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">포켓몬을 좋아한다면 사볼만한 스위치 신작게임</strong>
+						<p class="desc">지난 4월 30일, 스위치로 &#x27;New 포켓몬 스냅&#x27;이 발매되었다. 제목에서 예상할 수 있듯 포켓몬 사진을 찍고 도감을 채우는 것이 주 목적인 게임이다. 1999년 닌텐도64로 발매된 적 있는 &#x27;포켓몬 스냅&#x27;의 후속작이지만, &#x27;포켓몬 스냅&#x27;이 국내에 정발되지 않았기 때문에 국내에서의 인지도는 매우 낮다.포켓몬 사진을 찍는게 전부, &lt;New 포켓몬 스냅&amp;</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">맨츄어리</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_bd753ad0-af21-11eb-9551-07f540409a7f" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439188&amp;memberNo&#x3D;3884106&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list3cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384955266rpVUW.jpg%22&amp;type&#x3D;nf340_228" alt="호러 게임으로서 분위기나 스토리 등등 명작이라 불렸던 게임" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31439188&amp;memberNo&#x3D;3884106&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list3cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">호러 게임으로서 분위기나 스토리 등등 명작이라 불렸던 게임</strong>
+						<p class="desc">안녕하세요? 샤코 포스트의 샤코입니다. 오늘 여러분들에게 소개할 내용은 &#x27;매드 파더&#x27;라는 게임입니다. 직역하자면 정신이 이상한 아빠, 정신나간 아빠 라는 뜻입니다. 플레이는 PC,닌텐도스위치로 이용이 가능한데요. 올해 4월 8일부터 공식 한국어화가 완료됐으며 리메이크로 나왔습니다. 그만큼 인기가 있었으니 리메이크로 나오지 않았나 생각이 드네요.대충 전반적인</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">샤코</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_bd753acf-af21-11eb-9551-2da0fb940bf0" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31418677&amp;memberNo&#x3D;38662254&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list3cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384941674LneRA.jpg%22&amp;type&#x3D;nf340_228" alt="[병맛 전투 시뮬레이션] 토탈리 어큐레이트 배틀 시뮬레이터" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31418677&amp;memberNo&#x3D;38662254&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list3cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">[병맛 전투 시뮬레이션] 토탈리 어큐레이트 배틀 시뮬레이터</strong>
+						<p class="desc">상점 이동은 이미지 클릭! 기존 전투 시뮬레이션과는 방향성을 달리하다  &#x27;A랑 B랑 싸우면 누가 이겨요?&#x27; 라는 문장으로 대표되는 vs 놀이는 언제 어느 때고 호기심과 흥미를 유발하는 좋은 소재라 할 수 있다. 이 vs 놀이는 현실과 가상을 넘나들고 모든 장르와 분야를 통틀어 활발히 벌어지는데, 서로간의 역랑이 비슷한 두 존재를 vs 놀이에 대입해 어느 쪽</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">프로스티머</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_4712c7cd-cd67-11ea-aeaa-6b06ed24bf1d" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31373627&amp;memberNo&#x3D;31236473" class="theme_thumb" data-clk="tcc_gam.list3cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0428%2Fupload_1619607121761Q0202.jpg%22&amp;type&#x3D;nf340_228" alt="넷마블, 초대형 모바일 MMORPG &lt;세븐나이츠 레볼루션&gt; 두번째 티저 영상 공개" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31373627&amp;memberNo&#x3D;31236473" class="theme_info" data-clk="tcc_gam.list3cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">넷마블, 초대형 모바일 MMORPG <세븐나이츠 레볼루션> 두번째 티저 영상 공개</strong>
+						<p class="desc">넷마블(대표 권영식, 이승원)은 모바일 MMORPG &lt;세븐나이츠 레볼루션(개발사 넷마블넥서스)&gt;의 두번째 티저영상을 공개했다고 28일 밝혔다. 새롭게 공개한 티저 영상에서는 레이첼, 루디, 태오, 카구라, 제이브, 카린 등 세븐나이츠의 영웅들이 등장해 이용자들에게 기대감을 불러일으킨다. 이번 영상 공개를 기념한 소셜네</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">넷마블</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-VIDEO-2" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-VIDEO-LIST"
+
+	 data-index=""
+	 data-page="2"
+	 style="display:none">
+
+	<div class="media_view_wrap type_column">
+		<div class="media_view">
+			
+				<a href="https://m.tv.naver.com/v/20051545" class="media_area" data-gdid="CAS_b1729566-af21-11eb-9551-c5c01eff9f08" data-clk="tcc_gam.video3cont1" target="_blank">
+					<div class="media_thumb">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385372591MC4nJ.jpg%22&amp;type&#x3D;nf464_260" alt="POE 신성한 꽃 수확 보스 오샤비 처치 완벽 가이드" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">06:37</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">POE 신성한 꽃 수확 보스 오샤비 처치 완벽 가이드</strong>
+							<div class="source_wrap">
+								<span class="date">4일 전</span>
+								<span class="source"><span class="source_inner">쏠킴TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/20009557" class="media_area" data-gdid="CAS_a4960acd-af21-11eb-9cd4-1303441f0030" data-clk="tcc_gam.video3cont2" target="_blank">
+					<div class="media_thumb">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385229521EJrpa.jpg%22&amp;type&#x3D;nf464_260" alt="북유럽 신화를 배경으로 한 모바일 RPG게임" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">03:27</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">북유럽 신화를 배경으로 한 모바일 RPG게임</strong>
+							<div class="source_wrap">
+								<span class="date">6일 전</span>
+								<span class="source"><span class="source_inner">루리웹 게임 동영상</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+				<a href="https://m.tv.naver.com/v/20053762" class="media_area" data-gdid="CAS_a4960acb-af21-11eb-9cd4-eb98788df748" data-clk="tcc_gam.video3cont3" target="_blank">
+					<div class="media_thumb">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385188941hzh7K.jpg%22&amp;type&#x3D;nf464_260" alt="&#x27;바이오하자드8 빌리지&#x27; 프리뷰" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">04:36</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">'바이오하자드8 빌리지' 프리뷰</strong>
+							<div class="source_wrap">
+								<span class="date">4일 전</span>
+								<span class="source"><span class="source_inner">헤이호우의 게임 이야기</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+			
+		</div>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-3" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_4712c7cb-cd67-11ea-aeaa-4f7571d101da" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31363589&amp;memberNo&#x3D;21497442&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list4cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0428%2Fupload_1619607084185NMEI1.jpg%22&amp;type&#x3D;nf340_228" alt="11.9 LoL 패치노트 하이라이트" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31363589&amp;memberNo&#x3D;21497442&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list4cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">11.9 LoL 패치노트 하이라이트</strong>
+						<p class="desc">이번 패치에서는 탱커 아이템을 조정하고, 위력이 부족한 전사 아이템을 상향했습니다. MSI를 앞두고 다양한 챔피언이 게임에서 활약할 수 있도록 프로 경기의 메타를 뒤흔들어 쉔과 룰루가 활약하는 모습을 기대하실 수 있을 것입니다. 지난 패치에서 너무 강력해진 챔피언에 대한 조정과 비에고와 관련된 다양한 버그도 수정되었습니다. 랭크의 두 번째 스플릿이 시작되었</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">리그오브레전드</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_4712c7ce-cd67-11ea-aeaa-d1eb1df8b08c" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31172403&amp;memberNo&#x3D;44198090&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list4cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0409%2Fupload_16179621547690t0Oj.jpg%22&amp;type&#x3D;nf340_228" alt="파쿠르 장인이 배그를 하면 사기인 이유 [언더커버]" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31172403&amp;memberNo&#x3D;44198090&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list4cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">파쿠르 장인이 배그를 하면 사기인 이유 [언더커버]</strong>
+						<p class="desc">배그 포스트를 즐겁게 봐주시는 여러분, 오늘은 1인칭 시점으로 찾아온 &#x27;파쿠르 장인이 카라킨에서 살아남는 법&#x27; 컨텐츠로 찾아왔습니다.드디어 배틀그라운드 모바일에도 업데이트 된 카라킨의 분위기를 제대로 냈네요! 지금 바로 영상으로 감상하세요! (맨위)* 본 컨텐츠는 방역 및 생활 속 거리 두기 지침을 준수하여 파쿠르 피트니스 전문가들로 구성된 </p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">배틀그라운드 모바일</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_4712c7cc-cd67-11ea-aeaa-6b4edeb52eae" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31363473&amp;memberNo&#x3D;21497442&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list4cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0428%2Fupload_16196070976255dDH6.jpg%22&amp;type&#x3D;nf340_228" alt="11.9 TFT 패치노트 하이라이트" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31363473&amp;memberNo&#x3D;21497442&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list4cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">11.9 TFT 패치노트 하이라이트</strong>
+						<p class="desc">심판의 어둠이 드리웁니다! 11.9패치는 세트 5.0의 서막인 동시에 첫 연구소인 초고속☄ 모드가 적용됩니다. 그림자 아이템의 등장! 신규 특성 및 챔피언 변경사항을 패치노트 http://riot.com/TFT1109에서 낱낱이 확인하세요.  ※ 모바일 패치는 PC 패치 적용 후 24시간 내에 업데이트될 예정입니다.</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">리그오브레전드</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_a8fd8390-af21-11eb-9551-899db1607de2" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442131&amp;memberNo&#x3D;599209&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list4cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384660928SxgPQ.jpg%22&amp;type&#x3D;nf340_228" alt="&#x27;라떼는 말이야~&#x27; 윈도우98 추억의 고전게임" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442131&amp;memberNo&#x3D;599209&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list4cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">'라떼는 말이야~' 윈도우98 추억의 고전게임</strong>
+						<p class="desc">&#x27;휴먼, 라떼는 말입니다..&#x27;현재 윈도우10을 쓰고 있는 우리에게 윈도우 98은 혁신이였다안녕하세요? 게임매니아 입니다. 오늘은 여러분들에게 소개할 내용은 바로 &#x27;추억의 고전게임&#x27; 을 주제로 남겨볼까 해요. 솔직히 윈도우 95,98 그리고 윈도우 2000으로 넘어갔을 무렵에 뭔가 아날로그 감성과 디지털 감성의 경계선상에 서 있었던 90년대생들은 이 때의 기</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임매니아</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a2-af21-11eb-90f9-2593d959637d" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31433369&amp;memberNo&#x3D;17350801" class="theme_thumb" data-clk="tcc_gam.list4cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386335171xUs7z.png%22&amp;type&#x3D;nf340_228" alt="신앙심이 절로 생기는 여신 캐릭터 코스튬" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31433369&amp;memberNo&#x3D;17350801" class="theme_info" data-clk="tcc_gam.list4cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">신앙심이 절로 생기는 여신 캐릭터 코스튬</strong>
+						<p class="desc">게임 속에서 여신은 쉽게 볼 수 있는 존재입니다. 흔히 게임 초반에 등장해서 플레이어를 인도해 주는 역할을 맡곤 합니다. 어떤 여신은 어디에서나 흔히 볼 수 있는 양산형 캐릭터처럼 생겨서 별다른 생각이 들지 않는 반면, 어떤 여신은 포스를 풍기며 매력적인 자태를 풍기면서 없던 신앙심이 솟구쳐 나오는 경우도 있는데요. 그런 의미에서 오늘의 이맛덕에서는 없던 </p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">네오필</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-4" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a1-af21-11eb-90f9-ff0ff8bcd81a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441924&amp;memberNo&#x3D;30323923" class="theme_thumb" data-clk="tcc_gam.list5cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_16203863060045MQS5.png%22&amp;type&#x3D;nf340_228" alt="이딴게 엔딩이라고??? 형편없는 엔딩으로 쌍욕먹은 게임들." width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441924&amp;memberNo&#x3D;30323923" class="theme_info" data-clk="tcc_gam.list5cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">이딴게 엔딩이라고??? 형편없는 엔딩으로 쌍욕먹은 게임들.</strong>
+						<p class="desc">* 스 포 주 의 *이 글에는 게임의 결말이 적혀있습니다.매스 이펙트33색 신호등 엔딩처참한 엔딩으로 쌍욕을 먹은 게임, 그 첫 번째 주인공은 &#x27;매스 이펙트&#x27;입니다. 매스 이펙트는 &#x27;발더스 게이트&#x27;와 &#x27;스타워즈 구 공화국의 기사단&#x27;을 제작한 것으로 유명한 RPG전문 개발사 &#x27;바이오 웨어&#x27;가 만든 SF RPG 입니다. 게임은 먼 미래, 우주로 진출한 인류가 </p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">기린왕</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a3-af21-11eb-90f9-3705e1d9a305" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31409353&amp;memberNo&#x3D;41061885" class="theme_thumb" data-clk="tcc_gam.list5cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_16203863639788jg2a.jpg%22&amp;type&#x3D;nf340_228" alt="게임&lt;원신&gt; 물 원소 점성술사 모나 코스프레" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31409353&amp;memberNo&#x3D;41061885" class="theme_info" data-clk="tcc_gam.list5cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">게임<원신> 물 원소 점성술사 모나 코스프레</strong>
+						<p class="desc">안녕하세요 나나비님 포스트에 처음 인사드리게 된 코스어 작약 이라고 합니다 :) 제가 오늘 보여드릴 코스프레는 miHoYo사의 게임 ‘원신’ 의 ‘모나’ 입니다!&lt;원신&gt; 은 오픈 월드 액션 Rpg 게임으로 최단기간 모바일 매출 10억 달러에 달성할 정도로 많은 사랑을 받고있는 게임 중 하나인데요!</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">CosNB</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_a8fd8392-af21-11eb-9551-6b275024cc09" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441677&amp;memberNo&#x3D;6258463&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list5cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384747506Te5IZ.jpg%22&amp;type&#x3D;nf340_228" alt="멀티플랫폼 온라인게임 ‘프로젝트: 스카이스크래퍼’ 영상 공개" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441677&amp;memberNo&#x3D;6258463&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list5cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">멀티플랫폼 온라인게임 ‘프로젝트: 스카이스크래퍼’ 영상 공개</strong>
+						<p class="desc">라타타스튜디오는 글로벌 서비스를 위해 개발 중인 차세대 멀티플랫폼 온라인 FPS 게임 &#x27;프로젝트: 스카이스크래퍼&#x27;의 티저 영상을 공개했다. ‘프로젝트: 스카이스크래퍼’는 PC 온라인 FPS(1인칭 슈팅) 게임으로 ‘워록’ 을 개발한 장윤호 대표를 필두로 언리얼 엔진4를 이용해 2020년부터 제작된 기대작이다. 짧지만 강한 인상을 주는 이번 영상을 통해 게임</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">헝그리앱</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a4-af21-11eb-90f9-b151453ea0e8" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31424379&amp;memberNo&#x3D;1966129" class="theme_thumb" data-clk="tcc_gam.list5cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386411441XQ7Cy.jpg%22&amp;type&#x3D;nf340_228" alt="역사상 최초의 세계대전급 전쟁" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31424379&amp;memberNo&#x3D;1966129" class="theme_info" data-clk="tcc_gam.list5cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">역사상 최초의 세계대전급 전쟁</strong>
+						<p class="desc">반갑습니다 사신청룡입니다. 이번 주는 인물이나 국가가 아닌 전쟁에 대해서 다뤄볼까 합니다. 1차 세계대전, 2차 세계대전 이전에도 2개 이상의 대륙에서 동시에 전쟁이 발생한 적이 있었습니다. 신기한 주제라고 생각되어 여러분들께 전해드립니다. 2개 이상의 대륙에서 발생했던 전쟁 7년 전쟁 쿠너스도르프 전투 Alexander Kotzebue 1848년작 전쟁명</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">사신청룡</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_a8fd838f-af21-11eb-9551-d10da2fa4d83" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442458&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list5cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384646688w65Da.jpg%22&amp;type&#x3D;nf340_228" alt="[세계기행] 로보토미 코퍼레이션, 미친 기업들의 도시" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442458&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list5cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">[세계기행] 로보토미 코퍼레이션, 미친 기업들의 도시</strong>
+						<p class="desc">2017년 출시된 국산 인디게임 ‘로보토미 코퍼레이션’은 괴물을 활용한 에너지 생산 기업 운영이라는 독특한 아이디어를 내세워 이목을 집중시켰다. SCP 재단이나 ‘케빈 인 더 우즈’ 같은 ‘초자연적인 괴물들을 관리하는 첨단시설’ 모티프를 활용한 이 게임은 특유의 소재는 물론, 귀여운 아트로 표</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임메카</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-5" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_a8fd8391-af21-11eb-9551-758c99fe565c" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31438708&amp;memberNo&#x3D;34059480&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list6cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384694844xthVQ.jpg%22&amp;type&#x3D;nf340_228" alt="전략과 수싸움 잘 살린 ‘서머너즈 워: 백년전쟁’" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31438708&amp;memberNo&#x3D;34059480&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list6cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">전략과 수싸움 잘 살린 ‘서머너즈 워: 백년전쟁’</strong>
+						<p class="desc">컴투스의 모바일 게임 ‘서머너즈 워: 백년전쟁’이 지난 4월 29일 전 세계에 출시됐다. ‘서머너즈 워: 백년전쟁’은 컴투스의 대표작인 ‘서머너즈 워’를 소재로 개발된 전략 대전 게임이다. 전 세계 사전예약자 수는 600만 명을 돌파했고, 출시 후 3일 동안 전 세계 누적 매출 50억 원을 기</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">GAMEVU</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a0-af21-11eb-90f9-458fdb8955de" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31430186&amp;memberNo&#x3D;11542122" class="theme_thumb" data-clk="tcc_gam.list6cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_16203862338613CETT.jpg%22&amp;type&#x3D;nf340_228" alt="중이병 징크스" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31430186&amp;memberNo&#x3D;11542122" class="theme_info" data-clk="tcc_gam.list6cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">중이병 징크스</strong>
+						<p class="desc">징크스가 징징거려요. 말 그대로 자신만의 세상에 빠진 징크스 편입니다. 사춘기 도중 짧게는 며칠, 길면 성인이 되어서까지 겪는다는 그 현상이 징크스에게도 생겨버렸습니다. 저 역시 어릴 때 아주 살짝 이것을 경험해 보았고, 그 때문인지 현재 이렇게 만화를... ㅎㅎ 잡설이 길었습니다. 이번 주도 재미있게 봐주세요~! -----------------------</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">쌀신</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae9713a5-af21-11eb-90f9-15c458d3dce7" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31425241&amp;memberNo&#x3D;4704108" class="theme_thumb" data-clk="tcc_gam.list6cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386455118j7gu9.jpg%22&amp;type&#x3D;nf340_228" alt="e스포츠 리그에서 특정 국가로 인해 난리난 전설을 아십니까?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31425241&amp;memberNo&#x3D;4704108" class="theme_info" data-clk="tcc_gam.list6cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">e스포츠 리그에서 특정 국가로 인해 난리난 전설을 아십니까?</strong>
+						<p class="desc">반갑습니다. Periodista 입니다. 지난 시리즈에서 &quot;설마.. 밴쿠버 타이탄즈 시즌 중 전원 로스터 교체만큼 충격적인 일이 있겠어?&quot; 라고 생각했는데 그 설마가 현실이 되었습니다. 제가 지난 한 주 동안 휴식을 하러 가면서 시리즈 휴재를 한 사이에 오버워치 e스포츠가 난리가 났습니다.오버워치 리그에서 중국 선수 미출전 결정이라는 이유</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">Periodista</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_ae97139f-af21-11eb-90f9-0964c6a55504" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31433978&amp;memberNo&#x3D;4505449" class="theme_thumb" data-clk="tcc_gam.list6cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386171431V7721.jpeg%22&amp;type&#x3D;nf340_228" alt="‘스팀 PC 카페’ 요금 정책, 서비스사에 직접 물어봤다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31433978&amp;memberNo&#x3D;4505449" class="theme_info" data-clk="tcc_gam.list6cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">‘스팀 PC 카페’ 요금 정책, 서비스사에 직접 물어봤다</strong>
+						<p class="desc">플레이위드가 5월 6일을 기점으로 드디어 ‘스팀 PC 카페’ 정식 서비스에 나섭니다. 지난 1월부터 4개월에 걸쳐 전국 PC방을 대상으로 무료 시범 서비스를 진행해왔던 터라, 이미 경험해 본 손님들에게는 정식 서비스에 들어서는 유료 요금 지불 외에는 큰 차이는 없을 수도 있는데요. 그래도 제공하는 게임 라인업을 45종으로 확장하고, 다</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">PNN</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_99eba237-af21-11eb-90f9-37f7fa14431a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442306&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list6cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384605297hi2AM.jpg%22&amp;type&#x3D;nf340_228" alt="창세기전 리메이크가 원작 전투를 버려야 하는 이유" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31442306&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list6cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">창세기전 리메이크가 원작 전투를 버려야 하는 이유</strong>
+						<p class="desc">창세기전 시리즈에 대한 추억은 1996년까지 거슬러 올라갑니다. 초등학교 시절, 생일에 부모님과 함께 컴퓨터 매장을 찾아가 고른 게임이 창세기전이었습니다. 점원에게 영업당한 멘트가 아마 &quot;국산게임 최고 대작&quot;이었을 겁니다. 생애 처음 구매한 게임패키지라, 기억이 생생할 수밖에 없습니다. 부푼 기대감 속에 디스켓 10장 설치를 마쳤고, 게임</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임인사이트</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-6" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_99eba236-af21-11eb-90f9-856f86f37502" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31440304&amp;memberNo&#x3D;4505449&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list7cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384591879CcX33.jpg%22&amp;type&#x3D;nf340_228" alt="이번에는 마을로, 캡콤 ‘바이오하자드 빌리지’ 국내 출시" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31440304&amp;memberNo&#x3D;4505449&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list7cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">이번에는 마을로, 캡콤 ‘바이오하자드 빌리지’ 국내 출시</strong>
+						<p class="desc">캡콤이 7일(금), 자사 액션 어드벤처 신작 ‘바이오하자드 빌리지’를 정식 출시했습니다. ‘바이오하자드 빌리지’는 캡콤 대표 공포 타이틀 ‘바이오하자드’ 시리즈 최신작으로, 전작 ‘바이오하자드 7’에서 일어난 베이커 저택의 참극으로부터 수년 후를 배경으로 합</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">PNN</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_9ff72e1b-af21-11eb-90f9-2df21b7506fb" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31249898&amp;memberNo&#x3D;160403&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list7cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385883643I6ALa.png%22&amp;type&#x3D;nf340_228" alt="&#x27;인간이 아닌 것&#x27; 과 함께 싸우는 게임 시리즈" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31249898&amp;memberNo&#x3D;160403&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list7cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">'인간이 아닌 것' 과 함께 싸우는 게임 시리즈</strong>
+						<p class="desc">&#x27;인간이 아닌 것&#x27; 과 함께 싸우는 게임 시리즈 게임 속 세상에서는 인간만이 아닌 다른 무언가가 많이 등장합니다. 몬스터, 마물, 거대한 기계 등... 인간이 아닌 것. 즉, 파트너와 힘을 합해 역경을 돌파하는! 게임의 시리즈를 모아봤습니다.※ 본 포스팅은 공략이 아닌 1화로 끝나는 체험 및 리뷰입니다. 특히나 주인장의 특기(?) 를 발휘하며</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">크로이쳐</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_9ff72e18-af21-11eb-90f9-9d3cfeba54dc" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31375745&amp;memberNo&#x3D;37183350" class="theme_thumb" data-clk="tcc_gam.list7cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_16203856616393iZ2M.jpg%22&amp;type&#x3D;nf340_228" alt="압도적 크기! 롤 블리츠크랭크 코스프레" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31375745&amp;memberNo&#x3D;37183350" class="theme_info" data-clk="tcc_gam.list7cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">압도적 크기! 롤 블리츠크랭크 코스프레</strong>
+						<p class="desc">티티클을 기다려주신 모든 분들 안녕하세요! 이번주에는 색다른 코스프레를 소개합니다! 소품 제작자이자 코스플레이어이신 [ 신문 ]님께서 열심히 준비해 주셨습니다~ 안녕하세요, 코스튬 플레이어 [ Sinmoon ] 입니다! 이번주는 [ 리그오브레전드 ]의 [ 블리츠크랭크 ] (와일드 리프트ver.) 코스튬 제작 과정과 사진을 소개해보려고 합니다!</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">티티클</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_99eba234-af21-11eb-90f9-553b7bc35380" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441591&amp;memberNo&#x3D;11878375&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list7cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384564279wqnVe.jpg%22&amp;type&#x3D;nf340_228" alt="세트 5 &#x27;심판&#x27; 돌입한 전략적 팀 전투(TFT), 어떻게 바뀌었나?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441591&amp;memberNo&#x3D;11878375&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list7cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">세트 5 '심판' 돌입한 전략적 팀 전투(TFT), 어떻게 바뀌었나?</strong>
+						<p class="desc">라이엇게임즈에서 서비스 중인 ‘전략적 팀 전투’(이하 TFT)가 다섯 번째 세트 &#x27;심판&#x27;으로 새롭게 돌아온다. &#x27;TFT&#x27;는 리그 오브 레전드(이하 LoL) 속 챔피언들로 군대를 구성해 전투를 벌이는 라운드 기반 전략 게임으로, 2019년 6월 PC 버전 출시 이후 전 세계 이용자 수 8,000만 명을 기록한</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">게임동아</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_9ff72e1a-af21-11eb-90f9-d141644f5c5a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31382279&amp;memberNo&#x3D;11710666" class="theme_thumb" data-clk="tcc_gam.list7cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_16203858287939UALZ.jpg%22&amp;type&#x3D;nf340_228" alt="슈팅게임 명가가 만든 격투게임, &#x27;타락천사&#x27;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31382279&amp;memberNo&#x3D;11710666" class="theme_info" data-clk="tcc_gam.list7cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">슈팅게임 명가가 만든 격투게임, '타락천사'</strong>
+						<p class="desc">지난 4월 24일, 일본의 게임센터 미카도가 주최한 &#x27;슈팅게임 대감사제&#x27;에서 사이쿄의 슈팅 게임 스트라이커즈 1945 시리즈의 최신작 &#x27;스트라이커즈 2020&#x27;의 새 정보가 공개됐습니다. 개발 중인 화면 몇 개가 공개된 게 전부지만, 과거 사이쿄에서 일했던 제로딥 사이쿄 브랜드 프로듀서 하라카미 타카유키 씨가 사이쿄와 관련된 이야기를 풀어내 재미있는 시간이었</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">게임어바웃</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-7" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_9ff72e19-af21-11eb-90f9-e57bdbd3284f" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31414312&amp;memberNo&#x3D;8661711" class="theme_thumb" data-clk="tcc_gam.list8cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620385787901RlZUE.png%22&amp;type&#x3D;nf340_228" alt="본격 워햄만화: 스페이스 마린들의 아버지, 프라이마크 - 1, 2" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31414312&amp;memberNo&#x3D;8661711" class="theme_info" data-clk="tcc_gam.list8cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">본격 워햄만화: 스페이스 마린들의 아버지, 프라이마크 - 1, 2</strong>
+						<p class="desc">에르다에 대한 이야기는 일부러 언급 안 했어요.앞으로도 이런 식으로 일부러 언급 안 하는 것들이 많을 예정입니다.본 만화의 내용은 다음을 기반으로 하고 있습니다.- Visions of Heresy(2018) - pgs. 20, 38, 39- Codex: Space Marine(9th Edition) - pgs. 7, 8</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">동굴트롤</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_99eba235-af21-11eb-90f9-63cd5ad611b8" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441976&amp;memberNo&#x3D;49631020&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list8cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620384579252pYoDW.jpg%22&amp;type&#x3D;nf340_228" alt="‘스매시 레전드’ 개발진, “꾸준한 업데이트로 즐거움 지속 ‘약속’”" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31441976&amp;memberNo&#x3D;49631020&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list8cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">‘스매시 레전드’ 개발진, “꾸준한 업데이트로 즐거움 지속 ‘약속’”</strong>
+						<p class="desc">5민랩 박수찬 디렉터, 이주영 아트 디렉터5민랩이 개발하고 라인게임즈가 서비스하는 멀티플레이어 액션 PvP ‘스매시 레전드’가 글로벌 이용자들을 마주하고 있다. PC, 모바일 크로스플랫폼으로 출범한 게임은 서비스 한 달 차를 맞이하며 순항중이다. PvP 중심의 손쉬운 액션, 컴팩트한 게임성으로 시장 문을 두들기고 있는 이들. 개발진은 </p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">경향게임스</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_9ff72e1d-af21-11eb-90f9-23ea2cdb977a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31340582&amp;memberNo&#x3D;52480150" class="theme_thumb" data-clk="tcc_gam.list8cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386030824X9T91.png%22&amp;type&#x3D;nf340_228" alt="크덥크의 상징, 이명 특수개체 몬스터 (1)" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31340582&amp;memberNo&#x3D;52480150" class="theme_info" data-clk="tcc_gam.list8cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">크덥크의 상징, 이명 특수개체 몬스터 (1)</strong>
+						<p class="desc">안녕하세요, 털맨입니다. 오늘은 크로스, 더블크로스의 상징과도 같은 몬스터들이자 기존의 아종들을 대체해서 나온 크덥크의 이명 특수개체 몬스터들에 대해 알아보겠습니다.1. 이명 특수개체란?크로스와 더블크로스에는 아종 몬스터가 일절 등장하지 않습니다. 크덥크에서는 아종을 대신해 일부 몬스터들에게 &#x27;특수개체&#x27;라는 시스템이 생겼는데, 원본과 꽤나 다른 생김새와 특</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">Tulman</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_8a29d46a-af25-11eb-90f9-f3d95767af23" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31331994&amp;memberNo&#x3D;11255530" class="theme_thumb" data-clk="tcc_gam.list8cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0507%2Fupload_1620386117275Dr096.jpg%22&amp;type&#x3D;nf340_228" alt="서바이벌 프로젝트 - 그곳엔 &#x27;극한 동심 피지컬&#x27;이 있었다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31331994&amp;memberNo&#x3D;11255530" class="theme_info" data-clk="tcc_gam.list8cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">서바이벌 프로젝트 - 그곳엔 '극한 동심 피지컬'이 있었다</strong>
+						<p class="desc">어릴 적, 우리를 컴퓨터 앞으로 달려오게 한 그 게임을 기억하시나요? 수많은 온라인게임이 뜨고 사라졌습니다. 바람의나라처럼 아직까지 서비스되는 &#x27;조상님&#x27;도 있지만, 서비스가 종료되고 기억 저편으로 사라진 게임이 더 많죠. 지금 2~30대, 나아가 4~50대 유저들도 추억 속에 돌아오지 못할 게임 하나씩은 가지고 있습니다. 우리가 그 게임들을 그리워하는 이유</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">게임인사이트</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_811238f2-ae4a-11eb-90f9-93446c424b0a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31426386&amp;memberNo&#x3D;11710666&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list8cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292338651q2vVI.jpg%22&amp;type&#x3D;nf340_228" alt="“‘디아블로 이모탈’ 이름의 비밀 알게 될 것”, 한국 5월 20일 클로즈 알파 진행" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31426386&amp;memberNo&#x3D;11710666&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list8cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">“‘디아블로 이모탈’ 이름의 비밀 알게 될 것”, 한국 5월 20일 클로즈 알파 진행</strong>
+						<p class="desc">이제 곧 ‘디아블로 이모탈’을 테크니컬 알파 테스트를 거쳐 비공개 알파 테스트로 맛볼 수 있게 됐다. 비공개 알파에 앞서, 블리자드는 디아블로 이모탈 총괄 게임 디자이너 스캇 쉬코프와 디아브롤 이모탈 게임 디렉터 와이엇 챙과 테크니컬 알파에서 달라진 점과 새로운 모드에 대한 설명과 인터뷰가 진행됐다. ■ 테크니컬 알파에서의 변경점 - 태고 균열의 보상 증가</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">게임어바웃</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-8" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_81126003-ae4a-11eb-90f9-29dac3f6b0b2" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31424663&amp;memberNo&#x3D;16404402&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list9cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292363324wBegL.jpg%22&amp;type&#x3D;nf340_228" alt="포켓몬스터, 왜 5세대는 애니보다 게임이 명작인가" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31424663&amp;memberNo&#x3D;16404402&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list9cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">포켓몬스터, 왜 5세대는 애니보다 게임이 명작인가</strong>
+						<p class="desc">안녕하세요, 흔포잡입니다. 이번에는 5월 5일을 맞아서 5세대에 관해 이야기를 나누어 보려고 하는데요, 바로 5세대 게임이 어째서 명작이라 불리는지에 대한 고찰입니다. 애니메이션과는 다르게 5세대 게임의 경우 지금까지도 많은 사랑을 받고 있는데요, 그러한 사랑을 받는데에는 당연히 수많은 이유들이 있습니다. 우선 첫번째로 언급할 장점은 &#x27;5세대&#x27;의 특성입니다</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">흔한포덕의잡지식</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_81126005-ae4a-11eb-90f9-5da619c4b4a4" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31432218&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list9cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292463276wiQwM.jpg%22&amp;type&#x3D;nf340_228" alt="바이오하자드 빌리지, 에단은 왜 행복할 수가 없어?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31432218&amp;memberNo&#x3D;10582936&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list9cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">바이오하자드 빌리지, 에단은 왜 행복할 수가 없어?</strong>
+						<p class="desc">바이오하자드 7 주인공으로 등장했던 에단 윈터스는 전투 경험이 하나도 없는 평범한 남성이었다. 실종된 아내를 찾아 폐가에 방문한 그는 베이커 가족과 얽히며 산전수전을 다 겪었으나 종국에는 크리스 레드필드에게 구조되며 악몽이 끝나는 듯했다. 그런데 악연은 끝나지 않았다. 본인을 구해줬던 크리스가 급작스레 딸인 로즈를 납치하고, 이에 에단은 딸을 되찾기 위해 </p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">게임메카</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd09d-ae4a-11eb-90f9-4543250adc05" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31428299&amp;memberNo&#x3D;31380582" class="theme_thumb" data-clk="tcc_gam.list9cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294581332wVQbK.jpg%22&amp;type&#x3D;nf340_228" alt="5월 1주차, 최상위권 순위 요동친 모바일판" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31428299&amp;memberNo&#x3D;31380582" class="theme_info" data-clk="tcc_gam.list9cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">5월 1주차, 최상위권 순위 요동친 모바일판</strong>
+						<p class="desc">‘게임할 땐! 국민트리’의 2021년 5월 1주차 빅데이터 게임순위입니다. 국민트리는 매주 네이버와 구글을 비롯한 포털 사이트의 검색 빅데이터로 게임 순위를 제공합니다. 이번 주에는 게이머들이 어떤 게임의 정보를 많이 찾아보았는지 확인해 보시길 바랍니다.모바일 – 치열한 순위 경쟁 발발안녕하세요. 2021년 5월의 첫 빅데이</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">국민트리</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_81126004-ae4a-11eb-90f9-2115434d5a23" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31429638&amp;memberNo&#x3D;24985926&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list9cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292443793aaN90.jpg%22&amp;type&#x3D;nf340_228" alt="바하 빌리지 출시, 한국어화만 20개 이상! 5월 Xbox 게임은?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31429638&amp;memberNo&#x3D;24985926&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list9cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">바하 빌리지 출시, 한국어화만 20개 이상! 5월 Xbox 게임은?</strong>
+						<p class="desc">4월 출시한 Xbox 게임 중 한국어화된 타이틀은 18개인 것으로 확인됐습니다. &lt;니어 레플리칸트&gt;, &lt;저지 아이드: 사신의 유언 리마스터드&gt;, 그리고 고전 IP의 최신작 &lt;알타입 파이널2&gt;도 출시됐습니다. 다수의 구/현세대 기기 지원, 그리고 게임패스 대응 등으로 PC와 콘솔 제약 없이 편하게 즐길 수 있다는 점은 Xbox</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">디스이즈게임</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd09e-ae4a-11eb-90f9-3bc41de36f0b" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31381013&amp;memberNo&#x3D;2380229" class="theme_thumb" data-clk="tcc_gam.list9cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294645004Hvnz9.jpg%22&amp;type&#x3D;nf340_228" alt="118화. 문명6 미국 #5 - 이집트 VS 제네바" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31381013&amp;memberNo&#x3D;2380229" class="theme_info" data-clk="tcc_gam.list9cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">118화. 문명6 미국 #5 - 이집트 VS 제네바</strong>
+						<p class="desc">작가의 말 미국의 교역 중인 문명에게 쌓이는 사절 2배 + 미네르바 부엉이의 상인을 보낼때 마다 사절제공 + 아마니 4진급의 누적 사절 2배 &#x3D; 교역로 보낼 때 마다 사절 4명 추가. 어차피 미국은 사절도 썩어 넘치니 한 도시국가에 몰아주면 그 도시국가를 대제국으로 만들 수 있습니다.</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">두툰</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-9" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_850dd09c-ae4a-11eb-90f9-2df428421c1a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31334163&amp;memberNo&#x3D;6272246" class="theme_thumb" data-clk="tcc_gam.list10cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294532916aFvbD.jpg%22&amp;type&#x3D;nf340_228" alt="소녀X헌터 코스프레 화보! 거룡을 상대한 건 소녀들이었어!" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31334163&amp;memberNo&#x3D;6272246" class="theme_info" data-clk="tcc_gam.list10cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">소녀X헌터 코스프레 화보! 거룡을 상대한 건 소녀들이었어!</strong>
+						<p class="desc">안녕하세요!RZ COS입니다!이번 주는 소녀X헌터 코스프레 프로젝트 화보로 인사드립니다.지난주 신재은님의 코스프레 화보 재밌게 보셨나요? 소녀X헌터거룡을 상대한 건 소녀들이었어 한국신스타임즈의 소녀X헌터는 출시를 앞둔 수집형 RPG입니다.신화, 역사, 전국, 삼국시대 속 신과 영웅, 인물들이 대거 등장하여인류를 돕기 위해 포악한 거룡과 싸우는 이야기를 담은</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">RZ COS</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd09b-ae4a-11eb-90f9-01ab9795de68" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31384274&amp;memberNo&#x3D;11878375" class="theme_thumb" data-clk="tcc_gam.list10cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294474948rDExG.jpg%22&amp;type&#x3D;nf340_228" alt="제목에 낚여서 분노했다! 최악 퀄리티의 도스(DOS) 이식작들!" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31384274&amp;memberNo&#x3D;11878375" class="theme_info" data-clk="tcc_gam.list10cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">제목에 낚여서 분노했다! 최악 퀄리티의 도스(DOS) 이식작들!</strong>
+						<p class="desc">안녕하세요! [꿀딴지곰 겜덕 연구소]를 운영하고 있는 조기자입니다. 이번에도 지식인에서 고전게임 전문 답변가로 활동하고 계신 꿀딴지곰님을 모셨습니다. 이번 시간에는 제목에 혹해서 신나게 구입했다가 망연자실할 수 밖에 없던, 최악의 도스 게임에 대해 알아보도록 하겠습니다.[게임기가 없던 소년은, PC DOS가 희망이었다..]꿀딴지곰 : 안녕하세요 조기자님. </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">게임동아</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd09f-ae4a-11eb-90f9-8b503c5e4db1" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31383674&amp;memberNo&#x3D;16857771" class="theme_thumb" data-clk="tcc_gam.list10cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294708027rnvaF.jpg%22&amp;type&#x3D;nf340_228" alt="유튜버들 사이에서 치트키로 통했던 게임 Fall Guys" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31383674&amp;memberNo&#x3D;16857771" class="theme_info" data-clk="tcc_gam.list10cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">유튜버들 사이에서 치트키로 통했던 게임 Fall Guys</strong>
+						<p class="desc">2020 베스트 패밀리, 멀티플레이게임 트로피 수상작!오늘은 작년 한 해 유튜브와 게임 계를 뜨겁게 달궜던 게임 폴가이즈(fall guys)에 대한 이야기를 준비해봤습니다. 이 게임에 대해 간단히 설명하자면, 최대 60인이 멀티 플레이로 참여해 최종 1명의 승자가 나올때 까지 라운드를 거듭하는 장애물 경주 게임입니다.출시 초기 대다수의 유저들</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">G조커</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd0a0-ae4a-11eb-90f9-47d9c1312bd2" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31384171&amp;memberNo&#x3D;23942370" class="theme_thumb" data-clk="tcc_gam.list10cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294754502xpbMA.jpg%22&amp;type&#x3D;nf340_228" alt="&#x27;천하무적&#x27;일 것 같았던 자의 끝 - Invincible (월드 오브 워크래프트)" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31384171&amp;memberNo&#x3D;23942370" class="theme_info" data-clk="tcc_gam.list10cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">'천하무적'일 것 같았던 자의 끝 - Invincible (월드 오브 워크래프트)</strong>
+						<p class="desc">게임 속에서 한 인물을 표현하는 방법은 다양합니다. 퀘스트를 통한 스토리 진행을 하여 직접적으로 이야기하는 방법도 있지만, 맵이나 오브젝트, 다양한 기믹을 통해 인물과 연관된 이야기나 배경을 간접적으로 표현하는 경우도 있죠. 단순히 인물의 설정을 표현하는 경우도 있지만, 어떠한 경우엔 핵심 스토리를 담고 있는 경우도 있어 이를 놓치지 않기 위해선 게임 곳곳</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">뽀로기</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_3be10ae6-ae51-11eb-90f9-5b7f437b6940" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31381252&amp;memberNo&#x3D;3395565" class="theme_thumb" data-clk="tcc_gam.list10cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294945466oeHb3.jpg%22&amp;type&#x3D;nf340_228" alt="2화. 무인도 생활의 첫걸음" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31381252&amp;memberNo&#x3D;3395565" class="theme_info" data-clk="tcc_gam.list10cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">2화. 무인도 생활의 첫걸음</strong>
+						<p class="desc">모동숲 프렌즈 2화 - 무인도 생활의 첫걸음무인도..가 아니라 기억의섬에서의 첫날입니다.앞으로 지낼 텐트의 위치를 정하고, 다함께 캠프파이어를 하고, 섬의 이름도 정하고, 얼떨결에 주민 대표까지..실제 플레이타임으로는 그렇게 길지 않은 부분이지만, 처음 섬에 도착했던 그날의 설렘은 아직 남아있네요.다음주도 잘 부탁드립니다!</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">기억의메모리</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-10" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="6"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_3be10ae5-ae51-11eb-90f9-97770c345535" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31001338&amp;memberNo&#x3D;4704108" class="theme_thumb" data-clk="tcc_gam.list11cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294843999TSHU0.jpg%22&amp;type&#x3D;nf340_228" alt="레인보우 식스 시즈" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31001338&amp;memberNo&#x3D;4704108" class="theme_info" data-clk="tcc_gam.list11cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">레인보우 식스 시즈</strong>
+						<p class="desc">반갑습니다. Periodista 입니다. 최근 e스포츠에 도전하면서 각광을 받고 있는 종목을 &quot;전지적 e스포츠 시점&quot; 으로 소개하면서 &#x27;하는 재미&#x27; 와 &#x27;보는 재미&#x27; 로 나눠서 바라보는 &#x27;e스포츠 뉴 호라이즌&#x27; 에서는 &#x27;레인보우 식스 시즈&#x27; 에 대해서 알아보고자 합니다.이번에 소개할 종목은 &#x27;레인보우 식스 시즈&#x27; 입니다. 일명 &#x27;레식&#x27; 이</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">Periodista</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_8b73d8a2-ae4a-11eb-9cd4-41cef49bc8ec" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31420669&amp;memberNo&#x3D;51276511&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list11cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292736730IA0uI.jpg%22&amp;type&#x3D;nf340_228" alt="[소녀전선] 그 시절 부츠쨩이라고 아시나요? Kar98k 코스프레" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31420669&amp;memberNo&#x3D;51276511&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list11cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">[소녀전선] 그 시절 부츠쨩이라고 아시나요? Kar98k 코스프레</strong>
+						<p class="desc">안녕하세요~ You and I Wish, VV COS 입니다! 이번주도 VV COS와 함께 코스프레한 한주를 보내자구요!오늘 보여드릴 작품은! 오랫만에 소녀전선 (Girls Frontline) 입니다.오늘 소녀전선에 보여드릴 캐릭터는 독일제 5성 소총 전술인형Kar98k 입니다. kar98k(통칭 카구팔)은 소녀전선의 모바일, </p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">VVcos</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_850dd0a1-ae4a-11eb-90f9-ffb3e0fa927b" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31229714&amp;memberNo&#x3D;40601392&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list11cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620294800031yR2RY.jpg%22&amp;type&#x3D;nf340_228" alt="판글루 글루나파 크툴루 르뤼에 가나글 파탄! &lt;콜 오브 더 시&gt;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31229714&amp;memberNo&#x3D;40601392&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list11cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">판글루 글루나파 크툴루 르뤼에 가나글 파탄! <콜 오브 더 시></strong>
+						<p class="desc">콜 오브 더 시 Call of the Sea 20.12.08 Out of the Blue 作 PC/ XBO/ XBX/ XBS 퍼즐+내러티브 어드벤쳐 장르 공식 한국어 지원공포소설의 대가라고 하면 역시 스티븐 킹이지만, 그 이전에 하워드 러브크래프트가 있었습니다. 모르신다구요? 러브크래프트는 몰라도, 그가 창조한 크툴루 신화나 코스믹 호러는 분명 아실 겁니다</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">인디커넥트</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_8b73d8a4-ae4a-11eb-9cd4-f785630fb1d3" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31430573&amp;memberNo&#x3D;41998051&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list11cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0506%2Fupload_1620292785473NSeaO.jpg%22&amp;type&#x3D;nf340_228" alt="멀쩡한 가정집에 벙커와 미사일? PC &#x27;미스터 프레퍼&#x27; 리뷰" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31430573&amp;memberNo&#x3D;41998051&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list11cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">멀쩡한 가정집에 벙커와 미사일? PC '미스터 프레퍼' 리뷰</strong>
+						<p class="desc">인류멸망. 현재 지구에 살아가는 인류를 위협하는 &#x27;지구 종말&#x27;을 이야기할 때, 그 확률이 가장 높은 것은 바로 &#x27;전쟁&#x27;으로 인한 멸망일 것이다. 전쟁으로 인한 인류의 멸망은 게임에서도 단골 소재로 활용된다. 배경도 다양하다. 러시아의 지하철이 되기도 하고, 또 지하 깊숙한 벙커가 되기도 하며, 지구에 희망이 없으면 우주로 나가버리기도 한다. 굳이 &#x27;핵전쟁&#x27;</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">게임인</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_27b3964d-acb9-11eb-9387-41fcae3ed286" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31382341&amp;memberNo&#x3D;17350801" class="theme_thumb" data-clk="tcc_gam.list11cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0504%2Fupload_1620125765393o1mGA.jpg%22&amp;type&#x3D;nf340_228" alt="원래 목적 잊게 만든 닌텐도 여캐릭터" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31382341&amp;memberNo&#x3D;17350801" class="theme_info" data-clk="tcc_gam.list11cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">원래 목적 잊게 만든 닌텐도 여캐릭터</strong>
+						<p class="desc">게임을 선택하는 기준은 여러 가지가 있지만 &#x27;캐릭터&#x27;를 보고 고르는 경우가 적지 않습니다. 그래서 예전에 &#x27;히로인 때문에 사는 닌텐도 스위치 신작&#x27;을 이야기해본 적이 있었는데요.오늘은 반대로 &#x27;원래 목적이 있어서 샀는데 뒤늦게 캐릭터의 매력에 눈뜨게 해줬던 게임&#x27;을 이야기해볼까 합니다. 제목을 본 순간 머릿속에 떠오르는 게임과 캐릭터가 있다면 댓글로 남겨주</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">네오필</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-GAMEAPP-MOBILE-RANKING-DEFAULT-11" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="6"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="CAS_97ddbd3d-adb1-11eb-8def-7f92a79b1e30" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31422769" class="theme_thumb" data-clk="tcc_gam.list12cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0505%2Fupload_1620226306295JmS3O.jpg%22&amp;type&#x3D;nf340_228" alt="우주 그루브" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31422769" class="theme_info" data-clk="tcc_gam.list12cont1" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">우주 그루브</strong>
+						<p class="desc">투머치 토커유명한 DJ이자 음악의 관리자, 강아지 행성의 지도자인 나서스는 한때 리산드라의 영향력 아래 있었습니다. 행성민들의 그루비한 음반을 압수해 다시는 듣지 못하도록 하기도 했죠. 그러나 디스코의 힘에 매료된 지금은 반란군을 이끌며 강력한 블리츠와 크랭크에 맞서 싸우고 있습니다.항상 새 시리즈를 그릴 때마다 느끼는 거지만, 설정 설명을 하려니 도입부가</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">팬텀크로</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_234f51c9-acb9-11eb-9387-611ca74377c4" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31410776&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list12cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0504%2Fupload_1620122872920c4YDk.jpg%22&amp;type&#x3D;nf340_228" alt="게임이 사람을 웃으면서 화나게 하는 법" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31410776&amp;memberNo&#x3D;11255530&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list12cont2" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">게임이 사람을 웃으면서 화나게 하는 법</strong>
+						<p class="desc">&quot;이 게임을 왜 만들었냐고요? 그들에게 상처를 주기 위해서요&quot; - 배넷 포디스팀게임 탐방을 좀 해본 사람이라면, 혹은 게임실황을 즐겨 본다면 반드시 마주쳤을 부류가 있다. 즐기는 게임이 아니라 악의를 가지고 설계된 &#x27;프로그램&#x27;에 가까운 어떤 것. 고통류 게임들이다. 전성기를 연 게임은 Getting over It, 흔히 항아리게임으로 불린</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">게임인사이트</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_27b3964e-acb9-11eb-9387-4300296f0fc9" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31411974&amp;memberNo&#x3D;1908590" class="theme_thumb" data-clk="tcc_gam.list12cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0504%2Fupload_1620125809085zXSeh.jpg%22&amp;type&#x3D;nf340_228" alt="숲에 동물이 있는 게임" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31411974&amp;memberNo&#x3D;1908590" class="theme_info" data-clk="tcc_gam.list12cont3" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">숲에 동물이 있는 게임</strong>
+						<p class="desc">마감 한마디 달러왕 - Call me when you want 가짜좀비왕 - 동물의숲ㅇ우우우우웊!!!!!!!!!!!!! 끠요오오오후후후훟!!!!!!!!!</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">채널 좀비왕</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_234f51c8-acb9-11eb-9387-27bcf900bbd9" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31410218&amp;memberNo&#x3D;34059480&amp;navigationType&#x3D;push" class="theme_thumb" data-clk="tcc_gam.list12cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0504%2Fupload_1620122834420EGoKM.jpg%22&amp;type&#x3D;nf340_228" alt="[체험기] GTFO, 집중력과 협동심이 필요한 총싸움 게임" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31410218&amp;memberNo&#x3D;34059480&amp;navigationType&#x3D;push" class="theme_info" data-clk="tcc_gam.list12cont4" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">[체험기] GTFO, 집중력과 협동심이 필요한 총싸움 게임</strong>
+						<p class="desc">‘GTFO’는 지난 2019년 12월에 출시된 4인 협력 총싸움 게임이다. 현재 PC 게임 플랫폼 스팀에서 ‘미리 해보기’ 단계로 판매되고 있다. ‘GTFO’는 공개 전부터 ‘4인 협력이 필수적인, 매우 어려운 게임’이라는 점을 강조했고, 어렵고 도전적인 상황을 4인의 협</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">GAMEVU</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="CAS_27b39650-acb9-11eb-9387-bbc892eb898b" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31372585&amp;memberNo&#x3D;16857771" class="theme_thumb" data-clk="tcc_gam.list12cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F2021%2F0504%2Fupload_1620125935248ZhRND.jpg%22&amp;type&#x3D;nf340_228" alt="이거 하나면 종결! 와일드리프트 가성비 스킨 추천" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.nhn?volumeNo&#x3D;31372585&amp;memberNo&#x3D;16857771" class="theme_info" data-clk="tcc_gam.list12cont5" target="_blank">
+						<em class="theme_category"> 게임</em>
+						<strong class="title elss">이거 하나면 종결! 와일드리프트 가성비 스킨 추천</strong>
+						<p class="desc">PC롤을 해오셨던 분들이 와일드리프트로 넘어오면, 스킨을 구매하기를 꺼려하는 경향이 있습니다. 아무래도 기존 리그 오브 레전드에 지른 스킨을 와일드리프트에서 또 다시 구매하기에는 부담이 정말 크기 때문이죠. 지갑은 얇아지고, 그렇다고 스킨 없이는 와일드리프트를 즐길 맛이 좀처럼 살아나지 않는 여러분들을 위해 현 시점에서 구매해도 좋을 가성비 스킨 몇가지를 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">G조커</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+
+
+
+
+	<div class="btn_more_wrap">
+		<button type="button" class="btn_more" data-clk-custom="tcc_gam.more" data-next-page="2"><i class="ico_more"></i>새로운 글 더보기</button>
+	</div>
+
+
+	</div>
+</div>
+ </div> </div> <div id="NM_INT_RIGHT" class="column_right"> <div class="column_fix_wrap"> <div id="da_brand"></div> 
+
+
+
+
+<div id="account" class="sc_login">
+<h2 class="blind">Sign in</h2>
+<p class="login_msg">Connect with people</p>
+<a href="https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fwww.naver.com" class="link_login" data-clk="log_off.login"><i class="ico_naver"><span class="blind">NAVER</span></i>Sign in</a>
+<div class="sub_area">
+<div class="look_box">
+<a href="https://nid.naver.com/user/help.nhn?todo=idinquiry" class="link_look" data-clk="log_off.searchid">Forgot Username</a>
+<a href="https://nid.naver.com/nidreminder.form" class="link_look" data-clk="log_off.searchpass">Password</a>
+</div>
+<a href="https://nid.naver.com/nidregister.form?url=https%3A%2F%2Fwww.naver.com" class="link_join" data-clk="log_off.registration">Sign up</a>
+</div>
+</div>
+
+
+
+ <div id="timesquare" class="sc_timesquare"> <h2 class="blind">타임스퀘어</h2> <div class="card_wrap">
+<div class="card_nav">
+<a href="#" role="button" class="btn_nav btn_prev" data-clk="squ.pre"><span class="blind">이전</span></a>
+<a href="#" role="button" class="btn_nav btn_next" data-clk="squ.next"><span class="blind">다음</span></a>
+</div>
+<div id="NM_TS_ROLLING_WRAP" style="height: 100%;">
+<div>
+<a href="https://news.naver.com/main/home.nhn" class="card_news" data-clk="squ.line2"><i class="news_badge type_flash">신문1면</i><span class="news">언론사 헤드라인 보기</span></a>
+</div>
+<div>
+<a href="https://search.naver.com/search.naver?sm=top_hty&amp;fbm=0&amp;ie=utf8&amp;query=%EC%BD%94%EB%A1%9C%EB%82%9819" class="card_news" data-clk="squ.line3"><i class="news_badge">이슈</i><span class="news">코로나바이러스감염증19 현황</span></a>
+</div>
+<div>
+<a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSPI" class="card_stock " data-clk="squ.kospi">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">코스피</em>
+<strong class="current">3,204.38</strong>
+<span class="rate rate_down">44.92 -1.38%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSDAQ" class="card_stock " data-clk="squ.kosdaq">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">코스닥</em>
+<strong class="current">979.68</strong>
+<span class="rate rate_down">13.12 -1.32%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/marketindex/exchangeDetail.nhn?marketindexCd=FX_USDKRW" class="card_stock type_exchange" data-clk="squ.usd">
+<strong class="stock_title">환율</strong>
+<div class="stock_box">
+<em class="name">USD</em>
+<strong class="current">1,119.20</strong>
+<span class="rate rate_up">5.70 +0.51%</span>
+</div>
+</a>
+</div>
+</div>
+</div> <!-- EMPTY --> </div>  <div id="veta_branding"> <iframe id="da_iframe_rolling" name="da_iframe_rolling" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10601&amp;nrefreshx=0" data-veta-preview="main_rolling" title="광고" width="350" height="200" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div>   <div id="shopcast" class="sc_shopcast"> <iframe id="shopcast_iframe" data-iframe-src="https://castbox.shopping.naver.com/shoppingboxnew/main.nhn" title="쇼핑캐스트" width="350" height="1539" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> </div> </div> </div> <a id="NM_scroll_top_btn" href="#wrap" class="content_top"><span class="blind">TOP</span></a> <button id="NM_darkmode_btn" type="button" role="button" class="btn_theme" aria-pressed="false"  > <span class="blind">라이트 모드로 보기</span> </button> </div> <div id="footer" role="contentinfo"> <div class="footer_inner"> <div class="banner_area"> <div class="da_box_wrap">    <div id="da_public_left"> <iframe id="da_iframe_bottom_left" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10641&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="da_public_right"> <iframe id="da_iframe_bottom_right" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10642&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="veta_time2"> <iframe id="da_iframe_below" name="da_iframe_below" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10640&amp;nrefreshx=0" data-veta-preview="main_below" width="350" height="86" scrolling="no" frameborder="0" title="광고"> </iframe> </div> </div> </div> <div class="notice_area" data-clk-prefix="ntc"> <div class="notice_box"> <h3 class="title"><a href="https://www.naver.com/NOTICE">공지사항</a> </h3> <a href="https://www.naver.com/NOTICE/read/1100001014/10000000000030671377" class="notice_msg" data-clk="notice" target="_blank">네이버 검색어 제안 기능이 업데이트 됩니다.</a> </div> <a href="more.html" class="link_all" data-clk="svcmap">서비스 전체보기</a> </div> <div class="aside_area"> <div class="partner_box_wrap"> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Creators</h3> <a href="https://www.navercorp.com/service/creators" class="link_partner" data-clk="creator">크리에이터</a> <a href="https://www.navercorp.com/service/business" class="link_partner" data-clk="smbusiness">스몰비즈니스</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Partners</h3> <a href="https://campaign.naver.com/smefullcare/online/" class="link_partner" data-clk="sme">SME 풀케어 시스템</a> <a href="https://business.naver.com/service.html" class="link_partner" data-clk="service">비즈니스 · 광고</a> <a href="https://sell.storefarm.naver.com/#/home/about" class="link_partner" data-clk="store">스토어 개설</a> <a href="https://smartplace.naver.com" class="link_partner" data-clk="place">지역업체 등록</a> <a href="https://expert.naver.com/expert/introduction?tab=guide#join" class="link_partner" data-clk="expert">엑스퍼트 등록</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Developers</h3> <a href="https://developers.naver.com" class="link_partner" data-clk="center">네이버 개발자 센터</a> <a href="https://developers.naver.com/docs/common/openapiguide/#/apilist.md" class="link_partner" data-clk="openapi">오픈 API</a> <a href="https://naver.github.io" class="link_partner" data-clk="opensource">오픈소스</a> <a href="https://d2.naver.com" class="link_partner" data-clk="d2">네이버 D2</a> <a href="http://d2startup.com" class="link_partner" data-clk="naverD2SF">네이버 D2SF</a> <a href="https://www.naverlabs.com" class="link_partner" data-clk="labs">네이버 랩스</a> </div> </div> <div class="service_box_wrap"> <div class="service_box" data-clk-prefix="wbd"> <a href="http://whale.naver.com/" class="service_logo" data-clk="bt"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAC91BMVEUAAACE1dAbf6jE1Nq/z9e82drQ3OG7ytOzws+6x9QNs7MeLpQSx60QrLAfL50gMakTxKyzwc8fMacSr6yywc8fMKIdLYzJ1d4KrrW6ydMJrrUbr6QgMKW2xNEcr6W7ydUfL5cIr7XBztgMtbMeL50fMaQQzrI0tK4cLIQUvqsVvqofMKLL0eGzxM+4xtIZuKcJr7XCyNt0xsILsLW1w9AdLYZwvL8gMaoeLY6CzMceLYyxz9fI1d0JwLMeLY4KrbXFzeAgMqvN2OEIrLUGsrVIurMfLpAcLIIIsbVWs7MeLpXIzt0UvakgMqwfL5x4wcEJsLYfMagWt6k6qqoil6DV2+UdK4EeMoEfLpOzws4/s7YgMacXvqoC27QcK38B17TE1dobKW0bKnID0bTP3OACzrQcKngcLIMbKXAD07QeLYfi6uzY4+YfLpDN2+DK2d0cK3zU4eTS3+IFzLQeL5ccKnXk7O7G19wgMJ3R3uHa5ejL2t7c5unI2Nzg6esBxrMfMKPp7vEeLYrr8fMNr7X2+PkeLYzt8vQE2LTx9fYfLpPz9/gHyLMOsrUHr7UCybQLs7YKu7UIuLUFvLQGwbUIxbQGw7QcKnTZ5OfV4uUJv67e5+rd5+rl7e8Ju6z3+vvm7vDp8PHs8vPw9fbv9PUgMaj6/PwgMqwJs6kNw7AFubULtrUGtbUJvrQEv7QAwq8MrqYKuKsKtqn+/v4Osaf7/P0K1rMHq6UeqKQNqKQhNoIgSH0Vvqoie5MhWIdV3cAcsaYhhZoglJkdLXnJ7+ia5tU61rgp1rceoKIhb4whZYgcM3fj9vJw3sdJx7xtd6sXt6hCT5AvPpAfPYQbKIMcJ34fP3q+8uSy49ux0tWd2NKYzM+A48yE08t6xchdv8FP0b1zfbcSpKIgToEbJ3nE5OG12Nmn19WM5tGKk8ehqMZlxcJJuLwgtLcbvbYc2bUTtaknNpA1Q4bZ7uuzuNuP3M9p0cNfbLUKtq5IVqk8Sp8jZpxaZZrUCA9eAAAAXXRSTlMABAj99BcO6IpfLhj9hPLp5ryyq6ZzXDnd2cuYkHtzbFFOQj0yJv76+ebc29fXx8TCuJuVlIqHgX5gPS0kEvn49/f08O3t6+fj2tLR0MzGeGNfWvbz7sXBpYN4PB4CDkIdAAAFcUlEQVRo3q3TdVwTYRjA8eeI0SKgYnd3d3d362tgO7u7Y4rd3d2K4pwwQkAQJUSxu7vbPzwYg9vufe+eO/neP9vtPr/n7t53gFMobxXPVu719pu4t/LM2a4gBwioeGZP9/0U9TyrFEyHepUSeyW45+wB/8GmXetZskpkdlGbz+w+CyVDThdV+QyT0FSMyFtikiIZMnOggIvnOMWaFwS0LBkkQj/q/mL8UpVDvv2ui6V89XvF+qm1C2rnNx8u6ferq8zfGlcHWdUbD/8PtbPI7p7aC5R49Mn6TFWZ5Z2jzKNPolOVJPtD04HEhLxFh6YH5lsqWHQQ1dVBCjFW2qUJo+8Xq3BAUeputenci27Qo6u9FGpC+8dV6pUODAZDQkKCwdAFRNz+s2wMiYwbQkwi7oWVBCvOHUep9yQkTkfMIsIv+/HygKVigaPoYuMFX+InGEQXJIS4kjRBN/b5JZutAaHcxDhQ3gVD7AWrU0a9TpgPO5OqnMUOciWJA9O8jh+IYwwmAhE39gnMrwFpchByQXCjn/kvCOf1ROil7z4LgnWuVZiQ8UpFh/gTgYs3tlvzFj4AiVbYN7oSoaDL20VaQAou6drE9UpcCCUWruyeL+ZbM3UL8Yw+YrHD4n2ozgdY9X3n05g3UnHCC6R0Xvv9pfaj/ImFoN3zqbQcJOlJkugpofWfafnoSGIp4rIvg5N5iXn+0aIS7vUQ/zBfFtMyFyPJogajXOpHrIQvYprNJf0JiEkAJu8TQqwF7VnE5mTaQyaX5PvRwUQkbLeEpH1UhqRw9ZHrP3ElInf3SOkEABmJWWhfaVG9iciHywulzNWAjY6kuiSV9wklFOELpeWHAsINZ2T3+d1JcXHrLmkVITcRGMJ8hsDehCZ8rozSkINYCKTmn8QRQn8AuQElwYtYCj4vyieG6gjdy51y6kMZYkUXmmj58kP9CcOHL7PlaKElEdEFR5031wPjCNvd2fKgOKHqF6CP1AeI7j1k+PA/aSfDdsiDjESBgDm8SJIiaCuCsgH6a7xAkuLmBASFA67zzAMuanEDdAoUHvX06dNgncldLQYU763Ex6hLkebPz7TaCfIHtOyt0kMtCpRROyAc1R8GXvy1Q1Qc/htmYNQFtyHqXEH1N2eD9ioH3NyM4gHO/VSJ2IKTC7ixqgZ8m4bjDVBMTb/waFx/IwfgNUCFK1NwHACgvZoBN5EDMgGAzRJWZSyz/3ADkjfwGo1V7PYwnPoc8MovZ2Dll18cjRzgAUnsDy5hYE24NwwpPyRrNJNuOcOSZxtx7MCk2kG6JQzfRyM5Qooix2lmsjxH9qdqIEX5TTRrGR6OQcoEZlwRSp/5BC/GjEYdI+whVfltYgfX0sXgH0CgiKh/fB3D7ck4thoQqHbS2kFGP2YyUi6w0OyUpW1rGG73x3HgwIJ98AGhU0cZ/Rhkf2oNsNLGYsC2YwwvkAMcQaTZ6TQfjzK8QfazcSDCdTiRajXD++cjUOzsgaKG3tz/uZLhHq4/PT9QVTt3NtmB1QwxI3EDnIChzeNzvLMrGd7fmoriCEyVH/P9Qyx3cP2KAJITDq9iuD8SxREkdT/C6j+Yjup3A0nOTQ8zPJiIyds6gaQCDY8wvJk4HcHOGyS1XbqC4f50jNL2IMWmwlKGd3cmItjmknn92VcwvL2F6ZeqKX37bszbv98HwU5mdfNlncfw4FYf3kSpg887aqQ3T1lW/u2dPnLk8/nKLmMoW9nDVjZfyomTzjdl1BtWcAYA+zylpGY4ONYEOc5u2evMs5a1QoHU+9I4ZXKwpcU98tgDDufc1s0re9YGdZYta5A1u5dbvlpgReOdp6JHNgc7fpCtnUO20ply5UfG/wEFXaai/lOVTwAAAABJRU5ErkJggg==" alt="웨일" width="48" height="48"> </a> <div class="service_info"> <strong class="title">웨일 브라우저</strong> <a href="http://whale.naver.com/" class="dsc" data-clk="bt">다운받기</a> </div> </div> <div class="service_box" data-clk-prefix="prj"> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="service_logo" data-clk="link"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABkCAMAAAA47XeXAAAAgVBMVEUAAADN5PdGm99Gm99Gm99Gm99Gm95Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gmt9Gm99Gm99Gm99Gm95Gm99Gm99Gm95Gm99Hm99Gm99Gm9/////3+/5cp+LO5PfR5/fO5fdcp+P7/f/zv5GhAAAAInRSTlMA/v7vH9u5qJNgGwb6l8a9uqF9WFUyLxYMCtbVmLCwe4OCj8gzEgAAA0NJREFUaN7NmmFz4iAQhkkwMTHGWrWtWvWuq8mF+/8/8Ey2nb0OhSwQZnw+MHQ7pbjAy2s2gsuiLPJMLpcyy4tyISZltnmHbxw3MzEVr/MUNNL5q5iCt2ccXCN9fhPB7CQYkTsRRlWDlboSAexzGCHfC28OKxhldfDOzBMwePLNTw0sauHFFphshQcLCUwkaQRfXYBPSkrEUBdv3jezcXXhw1ciUhc+fCUidQlH7qzqEk5d2dQlnHxvU5dwVgdXdSGclaiGyamt6hLO1qIu4ZASzcFE092SBprk1jagulvXAAw/qb5N7m176xQYmOPoLymYaK/X65/PNhlagE6LGUhfRM8FjNzuf/73//bHmInzoJEpjMyeWpp9RzGz/PT6+QvMNO2Q+67PPeYZY5h7jDVg5OM+/BGikd13JfDAj/Ad1WLMyEyUwKPT00ypN1GKAljQJtFiFgqRe86eYhbWIvPPPR5d+9pKiIgUwKNJdHXBvW9jyRye1EWLWYfnJcd141Byspizz7gbUyWDuqiW0v15D9g3ZgF86JwyKUgUHJaATUmS5rsEdkkTZLjZS8Alw+skFr8Nl6H6uosShaKOp3Zo+/jgFTDe+wcSfv0yFGfQaLX7tDO0reXOPRuMCG4Q11Y3IiYblWgzS7R+h31qdRtlGB7zikeUckz+AB3a8FuMqD7Cd2nhUHLOEIkLubQIkEuLxIdwEwUy3HyXxsbgPMJcGuGox+TSIugxuTQ+KHIaAS5N92eIIuMT5tJoPfHy5q9yKoXLelLuKRri0mjMQdhwTPw6Sv8pzKXhFyhNilEwkSCXRrnAnaPnJdyl0UrqXircpeHVglnv+62K4NJo3lFcGmWd79KO7OQoXAE8XNO6tIQGxj7fpfHTwk8RubQLWEGvgTNGKzj01fixunCMCCYcvSSlaFwUyKVx86J3bczpUR3zimq1LqdosAUbJF54ar+uk5Gju436mPTk8ZAXFdO93HRYTesUVgf3B+y0XdxLfdVputmfKp/iBtNjyl3c0kzUwtJIWewIPvAL9LOyWLsV9WAps3VRzh6hJBm3oOqsRKfHLGYzS/GP+iLBuBKdqkd+iWPkFZTHf4Em4us/uhI5qss/6zK5u8+AXpwAAAAASUVORK5CYII=" alt="꽃" width="47" height="50"> </a> <div class="service_info"> <strong class="title">프로젝트 꽃</strong> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="dsc" data-clk="link">바로가기</a> </div> </div> </div> </div> <div class="corp_area" data-clk-prefix="plc"> <h3 class="blind">네이버 정책 및 약관</h3> <ul class="list_corp"> <li class="corp_item"><a href="https://www.navercorp.com" data-clk="intronhn">회사소개</a></li> <li class="corp_item"><a href="https://recruit.navercorp.com/naver/recruitMain" data-clk="recruit">인재채용</a></li> <li class="corp_item"><a href="https://www.navercorp.com/naver/proposalGuide" data-clk="contact">제휴제안</a></li> <li class="corp_item"><a href="/policy/service.html" data-clk="service">이용약관</a></li> <li class="corp_item"><a href="/policy/privacy.html" data-clk="privacy"><strong>개인정보처리방침</strong></a></li> <li class="corp_item"><a href="/policy/youthpolicy.html" data-clk="youth">청소년보호정책</a></li> <li class="corp_item"><a href="/policy/spamcheck.html" data-clk="policy">네이버 정책</a></li> <li class="corp_item"><a href="https://help.naver.com/" data-clk="helpcenter">고객센터</a></li> </ul> <address class="addr"><a href="https://www.navercorp.com" target="_blank" data-clk="nhn">ⓒ NAVER Corp.</a></address> </div> </div> </div> </div> <div id="adscript" style="display:none"></div> </body> </html>
